@@ -1,0 +1,51 @@
+<item>
+</item>
+<item> 
+<title>La 1 HD [COLOR red][/COLOR]</title>
+<link>http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+</item>
+<item> 
+<title>La 2 HD [COLOR red][/COLOR]</title>
+<link>http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png</thumbnail>
+</item>
+<item> 
+<title>Antena 3 HD [COLOR red][/COLOR]</title>
+<link>https://livestartover-i.akamaized.net/antena3/master.m3u8</link>
+<thumbnail>https://i.imgur.com/NsVrEzv.png</thumbnail>
+</item>
+<item> 
+<title>Cuatro HD [COLOR red][/COLOR]</title>
+<link>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png</thumbnail>
+</item>
+<item> 
+<title>Telecinco HD [COLOR red][/COLOR]</title>
+<link>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png</thumbnail>
+</item>
+<item> 
+<title>Lasexta HD [COLOR red][/COLOR]</title>
+<link>https://livestartover-i.akamaized.net/lasexta/master.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1200px-LaSexta_HD_Logo_2016.png</thumbnail>
+</item>
+<item>
+<title>Movistar</title>
+<link>http://Ignoreme</link>
+</item>
+<item> 
+<title>#0 HD [COLOR red][/COLOR]</title>
+<link>https://globaldep.global.ssl.fastly.net/daily/14/chunks.m3u8</link>
+<thumbnail>https://3.bp.blogspot.com/-vDd8zKf22LQ/Vq4k7UIVQzI/AAAAAAAAadE/pIeaJd3A5s4/s1600/0.png</thumbnail>
+</item>
+<item> 
+<title>#Vamos HD [COLOR red][/COLOR]</title>
+<link>https://globaldep.global.ssl.fastly.net/daily/12/chunks.m3u8</link>
+<thumbnail>https://deporticket.blob.core.windows.net/awebs/movistar-medio-maraton-de-madrid/vamos-positivo-8-png.png</thumbnail>
+</item>
+<item>
+<title>M. ESTRENOS  [COLOR red][/COLOR]</title>
+<link>https://globaldep.global.ssl.fastly.net/daily/15/chunks.m3u8</link>
+<thumbnail>https://www.adslzone.net/app/uploads/2017/04/movistar-estrenos-juego-de-tronos-verano.jpg</thumbnail>
+</item>

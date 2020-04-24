@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<item>
+        <title>[COLOR blue]Buscador[/COLOR] </title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/PELICULAS/Buscador</externallink>
+<Info>Buscar contenido especifico</Info>
+<thumbnail>https://img2.freepng.es/20180324/ffq/kisspng-computer-icons-search-box-clip-art-loupe-5ab62f6404e0b1.92283165152188912402.jpg</thumbnail>
+<fanart>http://slideplayer.es/slide/3433020/17/images/1/BIENVENIDOS%21%21%21.jpg</fanart>
+ </item>
+
+<item>
+        <title>[COLOR yellow]Canales tv en directo[/COLOR] </title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/CANALES%20TV%20F4MPROXY/%23EXTM3U</externallink>
+<Info>Canales de television en directo [COLOR green]Lista Actualizada[/COLOR]</Info>
+<thumbnail>https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-600x400.png</thumbnail>
+<fanart>https://lh3.googleusercontent.com/H3m_zZTawjZ8P3ENThtK711zNHwCBuQe2E_ooFg_19C6crPaRgKpZOQoMVHhctBRObdR</fanart>
+ </item>
+ 
+<item>
+        <title>[COLOR orange]SERIES[/COLOR] </title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/Series/MenuSeries.xml</externallink>
+<Info>Series de [COLOR blue]Movistar+[/COLOR],HBO y [COLOR red]NETFLIX[/COLOR]</Info>
+<thumbnail>https://markappleinfo.files.wordpress.com/2016/10/tv_series_icon_by_quaffleeye-d6qj64q.png</thumbnail>
+<fanart>https://www-cinemascomics-com.exactdn.com/wp-content/uploads/2017/06/netflix-hbo-movistarplus.jpg</fanart>
+ </item>
+<item>
+ 
+ 
+<item>
+        <title>[COLOR red]PELICULAS[/COLOR]</title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/PELICULAS/Menupelis.xml</externallink>
+<thumbnail>https://i.imgur.com/bU09BGs.png</thumbnail>
+ <fanart>https://i.imgur.com/zfmI5FI.jpg</fanart>
+<Info>Películas de Estreno y las mejores películas </Info>
+</item>
+ <item>
+<title>[COLOR purple]DOCUMENTALES[/COLOR] </title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/DOCUMENTALES/DOCUMENT</externallink>
+<Info>DOCUMENTALES para las mentes mas curiosas e inquietas</Info>
+<thumbnail>https://i.imgur.com/cbaWr8I.png</thumbnail>
+<fanart>https://detodoaportes.files.wordpress.com/2018/09/whatsapp-image-2018-08-24-at-6-39-00-pm.jpeg?w=825</fanart>
+ </item>
+ <item>
+ <title>[COLOR blue]Canciones infantiles[/COLOR] </title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/canciones%20infantiles/canciones%20infantiles.xml</externallink>
+<Info>Canciones para divertirse </Info>
+<thumbnail>https://i.imgur.com/ES68dX6.png</thumbnail>
+<fanart></fanart>
+ </item>
+<item>
+        <title>[COLOR green]DEPORTES[/COLOR]  [COLOR red] solo eventos en directo[/COLOR]</title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/DEPORTES/DEPORTES.xml</externallink>        
+<thumbnail>https://i.imgur.com/KG3coTQ.png.png</thumbnail>
+        <fanart>http://mrie.es/wp-content/uploads/Deportes/2018/07/shutterstock_deportes_g.jpg</fanart>
+<Info>Deportes es la sección donde tenemos todos los eventos que se están emitiendo en estos momentos</Info>
+</item>
+<item>
+        <title>[COLOR yellow]Pruebas[/COLOR]  [COLOR red]pruebas Daily[/COLOR]</title>
+        <link>_</link>
+        <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOXADDON/master/DEPORTES/pruebas.xml</externallink>        
+<thumbnail>https://i.imgur.com/KG3coTQ.png.png</thumbnail>
+        <fanart>http://mrie.es/wp-content/uploads/Deportes/2018/07/shutterstock_deportes_g.jpg</fanart>
+<Info>Deportes es la sección donde tenemos todos los eventos que se están emitiendo en estos momentos</Info>
+</item>
