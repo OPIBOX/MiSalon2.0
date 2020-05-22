@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 herta berlin- union berlin
 https://b6t4r8k6.stackpathcdn.com/LiveApp/streams/083920312468211682440201.m3u8?token=null
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2 berlin-berlin aleman
-https://ul.cdn946.net:8443/hls/9pto19p15olh9g.m3u8?s=B-gf6tIHAq6dY5_UX4Nv5Q&e=1590193808
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2 berlin-berlin
+https://ul.cdn946.net:8443/hls/6yibrphqxih.m3u8?s=4rdZdwn-_UMvRdfhRhWmQw&e=1590194156
 #EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 Sin evento
 https://globaldep.global.ssl.fastly.net/daily/13/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 sin evento
