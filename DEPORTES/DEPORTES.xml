@@ -13,10 +13,10 @@ https://globaldep.global.ssl.fastly.net/daily/15/chunks.m3u8
 https://cloud-a4091-48-216.spcdn.cc/hls/h75fu4ae33ekalhulp3twj6rjhyrltliqzvsz2725kcgtvb7i2lt74jvkluq/master.m3u8
 #EXTINF:-1 tvg-name="Daily sports 12" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 7 Sin evento
 https://cloud-a3091-48-182.spcdn.cc/hls/h75fu2ye33ekalhulp3twiovjsf6nhlhj3d72tzdo6p76ujkkhxniphjmxvq/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 1 sin evento
-plugin://program.plexus/?mode=1&url=acestream://74cc589f97ba9420dede60eddc080f686cf5bf83&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
-plugin://program.plexus/?mode=1&url=acestream://3283c4c05d55abecd43120ac4d3b80787c6edba7&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 1 wolsfburgo-dortmund
+plugin://program.plexus/?mode=1&url=acestream://5c3a6ed156c186806af421369ffa242bf4c9069f&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 gladbach-leverkusen
+plugin://program.plexus/?mode=1&url=acestream://464db0bd2b862cd2a56849f312ef5b1f97aa750a&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 3 sin evento
 plugin://program.plexus/?mode=1&url=acestream://048ef51cda05842a0dcd83ad2cef7f6b7a00573b&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 4 sin evento
