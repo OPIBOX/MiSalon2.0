@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 mainz-leipzipg
-https://difdire.global.ssl.fastly.net/LiveApp/streams/734601511183936811795618.m3u8
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  mainz-leipzipg
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 dortmund-bayer
+https://ul.cdn946.net:8443/hls/6yibrphqxih.m3u8?s=k1TETLILbBqwEvvk1fu4wQ&e=1590531811
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  sin evento
 https://ul.cdn946.net:8443/hls/6yibrphqxih.m3u8?s=LghwQDV8Gduyuaw7mpqRow&e=1590348571
 #EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 sin evento
 https://dailyhls.global.ssl.fastly.net/LiveApp/streams/083920312468211682440201.m3u8
@@ -13,10 +13,10 @@ https://globaldep.global.ssl.fastly.net/daily/15/chunks.m3u8
 https://cloud-a4091-48-216.spcdn.cc/hls/h75fu4ae33ekalhulp3twj6rjhyrltliqzvsz2725kcgtvb7i2lt74jvkluq/master.m3u8
 #EXTINF:-1 tvg-name="Daily sports 12" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 7 Sin evento
 https://cloud-a3091-48-182.spcdn.cc/hls/h75fu2ye33ekalhulp3twiovjsf6nhlhj3d72tzdo6p76ujkkhxniphjmxvq/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 1 sin evento
-plugin://program.plexus/?mode=1&url=acestream://5c3a6ed156c186806af421369ffa242bf4c9069f&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
-plugin://program.plexus/?mode=1&url=acestream://464db0bd2b862cd2a56849f312ef5b1f97aa750a&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 1 dortmund-bayer
+plugin://program.plexus/?mode=1&url=acestream://761052fb6e083d56d911c724d0f2c5fd76e1ccee&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 dormund-bayer
+plugin://program.plexus/?mode=1&url=acestream://7f0279c8ee78c09d7ec9ef71bab4a8cfdfad8d14&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 3 sin evento
 plugin://program.plexus/?mode=1&url=acestream://048ef51cda05842a0dcd83ad2cef7f6b7a00573b&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 4 sin evento
