@@ -6,7 +6,7 @@ http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 hertha-augsburgo
 http://34.107.147.5/live/be3/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 wolfsburgo-frankfurt
-http://weak_spell.carniferou.club/edge/FS2/chunks.m3u8
+http://34.107.147.5/live/fs2/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 5" tvg-logo="https://i.imgur.com/mTbFX7p.jpg" group-title="deportes",canal 5 Sin evento
 https://globaldep.global.ssl.fastly.net/daily/15/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 6 Sin evento
