@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 bundesliga
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 shalke-werder bremen
 https://dailyazure01.azureedge.net/LiveApp/streams/508364582972712323460587.m3u8
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  sin evento
-https://cdn.dailysport.pw/2/2.m3u8
-#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 sin evento
-https://dailyhls.global.ssl.fastly.net/LiveApp/streams/083920312468211682440201.m3u8
-#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 sin evento
-https://globaldep.global.ssl.fastly.net/daily/14/chunks.m3u8
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  mainz-hoffenhein
+http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
+#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 hertha-augsburgo
+http://34.107.147.5/live/be3/chunks.m3u8
+#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 wolfsburgo-frankfurt
+http://weak_spell.carniferou.club/edge/FS2/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 5" tvg-logo="https://i.imgur.com/mTbFX7p.jpg" group-title="deportes",canal 5 Sin evento
 https://globaldep.global.ssl.fastly.net/daily/15/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 6 Sin evento
