@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 shalke-werder bremen
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 sin evento
 https://dailyazure01.azureedge.net/LiveApp/streams/508364582972712323460587.m3u8
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  mainz-hoffenhein
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  sin evento
 http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
-#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 hertha-augsburgo
+#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 sin evento
 http://34.107.147.5/live/be3/chunks.m3u8
-#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 wolfsburgo-frankfurt
+#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 sin evento
 http://34.107.147.5/live/fs2/chunks.m3u8
-#EXTINF:-1 tvg-name="Daily sports 5" tvg-logo="https://i.imgur.com/mTbFX7p.jpg" group-title="deportes",canal 5 Sin evento
-https://globaldep.global.ssl.fastly.net/daily/15/chunks.m3u8
-#EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 6 Sin evento
-https://cloud-a4091-48-216.spcdn.cc/hls/h75fu4ae33ekalhulp3twj6rjhyrltliqzvsz2725kcgtvb7i2lt74jvkluq/master.m3u8
+#EXTINF:-1 tvg-name="Daily sports 5" tvg-logo="https://i.imgur.com/mTbFX7p.jpg" group-title="deportes",canal 5 motocroos
+http://live.highstream.club/live/NBC/chunks.m3u8
+#EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 6 motocroos
+http://185.59.223.82/nbc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Daily sports 12" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 7 Sin evento
 http://62.210.77.242:25461/live/hadex/nnPvVQVfYt/83769.ts?token=TEYOB0UMEQkUVlJTUgZQBFcHUwFXCVheVF1XUlJXV1NTBVADVAZWBwFGHUFDQBADBVk7X1ETW15QUlRfHUEWElIWOQ9SRgkRBVYIQRwWFg8JUUYMBARYVlZdUFAEUU9DRw0CRAwKRl9aSBMGSEAHFApVCGlRVBcPAABAXF8WDw0bRgkIaQBWXlcKVUEKFlNESBYNRUUTWwgWCQ5KEwEKFUUFEgMUXl1GWggdQVNbFwgQRh0UDxMkNUFJQANJFwYPRA0JCBReEUdFRh1BWUc9FAFHEERQUAwDEUdYRAFBT0NaBR45VQtdXVMHRQpfWhFEXhZQBhcdQwsMCwsSXhE8EV4ARFxYEV9fSw==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream M liga de campeones bundesliga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream M liga de campeones 
 plugin://program.plexus/?mode=1&url=acestream://1231aff142dbf1159688a51fccf96c426c2f4c7a&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
 plugin://program.plexus/?mode=1&url=acestream://7f0279c8ee78c09d7ec9ef71bab4a8cfdfad8d14&mode=1&name=acestream&mode=1&name=
