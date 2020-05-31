@@ -10,7 +10,7 @@
 <fanart>[primer.param2]</fanart>
 ]]></listrepeat>
 <expres>(?s)title='.*?($doregex[buscador]).*?'.*?src='(.*?)'.*?alt='(.*?)'.*?hraf='(.*?)'<expres>
-<page></page>
+<page>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/PELICULAS/MENUSAGAS</page>
 </regex>
   <regex>
 <name>buscador</name>
