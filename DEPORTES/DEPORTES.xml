@@ -11,7 +11,9 @@ http://34.107.147.5/live/fs2/chunks.m3u8
 http://live.highstream.club/live/NBC/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 6 motocroos
 http://185.59.223.82/nbc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Daily sports 12" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 7 Sin evento
+#EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 7 nascar
+http://185.59.223.82/foxsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Daily sports 12" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 8 Sin evento
 http://62.210.77.242:25461/live/hadex/nnPvVQVfYt/83769.ts?token=TEYOB0UMEQkUVlJTUgZQBFcHUwFXCVheVF1XUlJXV1NTBVADVAZWBwFGHUFDQBADBVk7X1ETW15QUlRfHUEWElIWOQ9SRgkRBVYIQRwWFg8JUUYMBARYVlZdUFAEUU9DRw0CRAwKRl9aSBMGSEAHFApVCGlRVBcPAABAXF8WDw0bRgkIaQBWXlcKVUEKFlNESBYNRUUTWwgWCQ5KEwEKFUUFEgMUXl1GWggdQVNbFwgQRh0UDxMkNUFJQANJFwYPRA0JCBReEUdFRh1BWUc9FAFHEERQUAwDEUdYRAFBT0NaBR45VQtdXVMHRQpfWhFEXhZQBhcdQwsMCwsSXhE8EV4ARFxYEV9fSw==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream M liga de campeones 
 plugin://program.plexus/?mode=1&url=acestream://1231aff142dbf1159688a51fccf96c426c2f4c7a&mode=1&name=acestream&mode=1&name=
