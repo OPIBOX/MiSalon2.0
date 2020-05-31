@@ -36,16 +36,21 @@
 </item>
 <item> 
 <title>#0 HD [COLOR red][/COLOR]</title>
-<link>https://globaldep.global.ssl.fastly.net/daily/14/chunks.m3u8</link>
+<link>http://play.serpienteserver.com:8080/live/hadex/nnPvVQVfYt/83765.ts</link>
 <thumbnail>https://3.bp.blogspot.com/-vDd8zKf22LQ/Vq4k7UIVQzI/AAAAAAAAadE/pIeaJd3A5s4/s1600/0.png</thumbnail>
 </item>
 <item> 
 <title>#Vamos HD [COLOR red][/COLOR]</title>
-<link>https://globaldep.global.ssl.fastly.net/daily/12/chunks.m3u8</link>
+<link>http://play.serpienteserver.com:8080/live/hadex/nnPvVQVfYt/83769.ts</link>
 <thumbnail>https://deporticket.blob.core.windows.net/awebs/movistar-medio-maraton-de-madrid/vamos-positivo-8-png.png</thumbnail>
 </item>
 <item>
-<title>M. ESTRENOS  [COLOR red][/COLOR]</title>
-<link>https://globaldep.global.ssl.fastly.net/daily/15/chunks.m3u8</link>
+<title>U-BEAT  [COLOR red][/COLOR]</title>
+<link>http://play.serpienteserver.com:8080/live/hadex/nnPvVQVfYt/86689.ts</link>
 <thumbnail>https://www.adslzone.net/app/uploads/2017/04/movistar-estrenos-juego-de-tronos-verano.jpg</thumbnail>
+</item>
+<item> 
+<title>canal hammer [COLOR red][/COLOR]</title>
+<link>https://hdtv.prod2.ioio.tv/broker/manifests/190dac2c-bf76-47e9-9b8f-0d31567f5401/1080/4000000.m3u8</link>
+<thumbnail></thumbnail>
 </item>
