@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 bundesliga
-https://s8k2p2s7.stackpathcdn.com/http/002/playlist.m3u8
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 UFC
+https://dai.google.com/linear/hls/pa/event/gaDje967RoSDD5llid2OBA/stream/c40ada3c-0072-472e-bf1f-dbd642b61db4:ATL/variant/72595c90ea84b49f5b8b598797fbdbab/bandwidth/5058864.m3u8
 #EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  sin evento
 http://weak_spell.carniferou.club/edge/BTS3/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 sin evento
