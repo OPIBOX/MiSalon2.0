@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 sin evento
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 sevilla-betis
 https://cdo0.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  sin evento
-https://ul.cdn946.net:8443/hls/6yibrphqxih.m3u8?s=Ys9cqInNbgeUDURugPpofQ&e=1591834310
-#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 sin evento
-http://34.107.147.5/live/be3/chunks.m3u8
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  sevilla-betis
+https://p03.quest123.top:8088/stream/freeserv8/playlist.m3u8?id=8647&pk=ce3bf31e511ceec98013c7e75aaa764ee75ffd4182f9ee5ecba9758f75b74f65
+#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal sevilla-betis
+https://ul.cdn946.net:8443/hls/3rlaev5teauz.m3u8?s=288QlhA-5b2cz6g2iLYUmg&e=1591921990
 #EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 sin evento
 http://34.107.147.5/live/fs2/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 5" tvg-logo="https://i.imgur.com/mTbFX7p.jpg" group-title="deportes",canal 5 sin evento
