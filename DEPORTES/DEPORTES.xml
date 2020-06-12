@@ -5,8 +5,8 @@ https://cdo0.dailysport.pw/1/1.m3u8
 https://cdo0.dailysport.pw/5/5.m3u8
 #EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 juve-milan
 https://ul.cdn946.net:8443/hls/qqi3hyebi61.m3u8?s=8riiUZTzwz-b0sO0W2YEjg&e=1592010008
-#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 la liga
-https://ul.cdn946.net:8443/hls/6yibrphqxih.m3u8?s=xZOx7U257-YPwETnZmB1Ug&e=1592010168
+#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 boxeo
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592021317/ei/5fzjXt3DEKTWxN8PgeCiqAc/ip/83.213.52.82/id/Vz5MsXEnEAI.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/hls_chunk_host/r4---sn-x0n35auxa-cpvl.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/7620/mh/zo/mm/44/mn/sn-x0n35auxa-cpvl/ms/lva/mv/m/mvi/3/pl/16/dover/11/keepalive/yes/fexp/23882514/mt/1591999638/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAOKb05lZOHGLX10zElzx1Tiw-CJBFAJLyV6EX9IEdnOQAiAjq_-3UF_uJfj9R0UFUExRMhowy7lMrxfjlyCc_6zNsw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgVOMvh_cYLpJoFH24B-RN_9DwUf9ZZ3pYxnH-y5pSgHACIFuCBbyC2E3Xn60N6hzN0it4T8lHWjZAuygfn--DxvSN/playlist/index.m3u8
 #EXTINF:-1 tvg-name="Daily sports 5" tvg-logo="https://i.imgur.com/mTbFX7p.jpg" group-title="deportes",canal 5 sin evento
 http://live.highstream.club/live/NBC/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 6 sin evento
