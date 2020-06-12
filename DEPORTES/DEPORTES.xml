@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 sevilla-betis
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 la liga
 https://cdo0.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  sevilla-betis
-https://p03.quest123.top:8088/stream/freeserv8/playlist.m3u8?id=8647&pk=ce3bf31e511ceec98013c7e75aaa764ee75ffd4182f9ee5ecba9758f75b74f65
-#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal sevilla-betis
-https://ul.cdn946.net:8443/hls/3rlaev5teauz.m3u8?s=288QlhA-5b2cz6g2iLYUmg&e=1591921990
-#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 sevilla-betis
-https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=S2o6nTZIECxsQpXwgXs8TQ&e=1591922473
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  juve-milan
+https://ul.cdn946.net:8443/hls/xq9w687rkn.m3u8?s=xFY7LO1p0yl23G59T0IQwg&e=1592009882
+#EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 juve-milan
+https://ul.cdn946.net:8443/hls/qqi3hyebi61.m3u8?s=8riiUZTzwz-b0sO0W2YEjg&e=1592010008
+#EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 la liga
+https://ul.cdn946.net:8443/hls/6yibrphqxih.m3u8?s=xZOx7U257-YPwETnZmB1Ug&e=1592010168
 #EXTINF:-1 tvg-name="Daily sports 5" tvg-logo="https://i.imgur.com/mTbFX7p.jpg" group-title="deportes",canal 5 sin evento
 http://live.highstream.club/live/NBC/chunks.m3u8
 #EXTINF:-1 tvg-name="Daily sports 11" tvg-logo="https://i.imgur.com/VqMMrVx.jpg" group-title="deportes",canal 6 sin evento
