@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="deportes",canal 1 la liga
-https://cdo0.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  juve-milan
-https://cdo0.dailysport.pw/5/5.m3u8
+https://ul.cdn946.net:8443/hls/h6kg44f76gaa.m3u8?s=orgGNxrvE2PPj6jsm9OXyA&e=1592063087
+#EXTINF:-1 tvg-name="LALIGATVBAR" tvg-logo="https://i.imgur.com/RK9gQmf.jpg" group-title="deportes",canal 2  liga de campeones-bundesliga
+https://ul.cdn946.net:8443/hls/ok2ih45bnv.m3u8?s=YsA-_1tSNXBiwWHqfhcrWg&e=1592063286
 #EXTINF:-1 tvg-name="Daily sports 3" tvg-logo="https://i.imgur.com/uFsZGxF.jpg" group-title="deportes",Canal 3 juve-milan
 https://ul.cdn946.net:8443/hls/qqi3hyebi61.m3u8?s=8riiUZTzwz-b0sO0W2YEjg&e=1592010008
 #EXTINF:-1 tvg-name="Daily sports 4" tvg-logo="https://i.imgur.com/KbQYEqt.jpg" group-title="deportes",canal 4 boxeo
