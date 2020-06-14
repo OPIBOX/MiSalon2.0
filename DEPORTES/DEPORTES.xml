@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 la liga
-https://ul.cdn946.net:8443/hls/l0k61eupsjuce1e.m3u8?s=RDv6PFaobMQcXa2cmcWmkg&e=1592079490
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg",canal 2  liga de campeones-bundesliga
+https://cdo0.dailysport.pw/1/1.m3u8
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg",canal 2  sin evento
 https://ul.cdn946.net:8443/hls/ok2ih45bnv.m3u8?s=YsA-_1tSNXBiwWHqfhcrWg&e=1592063286
 #EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 la liga
 https://cdo0.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 UFC
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal sin evento
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 bundesliga
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
 https://cdo0.dailysport.pw/4/4.m3u8
 #EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
 http://185.59.223.82/nbc/tracks-v1a1/mono.m3u8
@@ -19,7 +19,7 @@ http://62.210.77.242:25461/live/hadex/nnPvVQVfYt/83769.ts?token=TEYOB0UMEQkUVlJT
 plugin://program.plexus/?mode=1&url=acestream://a6f537587d39613d64ee879e51bba37a23fb5b8c&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 bundesliga
 plugin://program.plexus/?mode=1&url=acestream://622d2363224aef6fb7897e6aa0ab54f298686bf6&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 3 napoles-inter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 3 sin evento
 plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 4 sin evento
 plugin://program.plexus/?mode=1&url=acestream://f6035f63bfe6ad6b949dff2f4812ea1a4472e509&mode=1&name=acestream&mode=1&name=
