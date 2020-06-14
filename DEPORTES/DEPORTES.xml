@@ -16,7 +16,7 @@ https://usher.ttvnw.net/api/channel/hls/pituherranz.m3u8?playlist_include_framer
 #EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 Sin evento
 http://62.210.77.242:25461/live/hadex/nnPvVQVfYt/83769.ts?token=TEYOB0UMEQkUVlJTUgZQBFcHUwFXCVheVF1XUlJXV1NTBVADVAZWBwFGHUFDQBADBVk7X1ETW15QUlRfHUEWElIWOQ9SRgkRBVYIQRwWFg8JUUYMBARYVlZdUFAEUU9DRw0CRAwKRl9aSBMGSEAHFApVCGlRVBcPAABAXF8WDw0bRgkIaQBWXlcKVUEKFlNESBYNRUUTWwgWCQ5KEwEKFUUFEgMUXl1GWggdQVNbFwgQRh0UDxMkNUFJQANJFwYPRA0JCBReEUdFRh1BWUc9FAFHEERQUAwDEUdYRAFBT0NaBR45VQtdXVMHRQpfWhFEXhZQBhcdQwsMCwsSXhE8EV4ARFxYEV9fSw==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 1 la liga tv bar
-plugin://program.plexus/?mode=1&url=acestream://a6f537587d39613d64ee879e51bba37a23fb5b8c&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://322fb31adf718561f3c4036c4339c43f2cb40d71&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 bundesliga
 plugin://program.plexus/?mode=1&url=acestream://622d2363224aef6fb7897e6aa0ab54f298686bf6&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",acestream 3 sin evento
