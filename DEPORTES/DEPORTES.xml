@@ -25,5 +25,5 @@ plugin://program.plexus/?mode=1&url=acestream://322fb31adf718561f3c4036c4339c43f
 plugin://program.plexus/?mode=1&url=acestream://622d2363224aef6fb7897e6aa0ab54f298686bf6&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 sin evento
 plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
-plugin://program.plexus/?mode=1&url=acestream://f6035f63bfe6ad6b949dff2f4812ea1a4472e509&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 la liga bar multi audio
+plugin://program.plexus/?mode=1&url=acestream://206904a157f22638b35424581d7df079689da671&mode=1&name=acestream&mode=1&name=
