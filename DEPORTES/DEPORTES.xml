@@ -25,8 +25,8 @@ plugin://program.plexus/?mode=1&url=acestream://3ddf10eb9193698460f56e867c9c4c0c
 plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 valladolid-celta 19:30
 plugin://program.plexus/?mode=1&url=acestream://677f43f8b2a646aae640c6cefb6cbd8ddbbf98a4&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
-plugin://program.plexus/?mode=1&url=acestream://efc686a5067777261c4be8795774cae62edb32df&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 la liga bar 
+plugin://program.plexus/?mode=1&url=acestream://d426d825586e83b56dc45b07e0b32834872ec273&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 oviedo-depor 19:30
 plugin://program.plexus/?mode=1&url=acestream://1a8234c8451a4a0de81f492f9a1e7d31ecd531e0&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 basket:tenerife-unicaja 18:30
