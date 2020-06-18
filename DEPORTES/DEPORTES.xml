@@ -21,12 +21,12 @@ http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26140&t
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=3819&t=live&f=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 alaves-real sociedad 19:30
 plugin://program.plexus/?mode=1&url=acestream://3ddf10eb9193698460f56e867c9c4c0ca8aea6ca&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 liga tv bar multi audio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
 plugin://program.plexus/?mode=1&url=acestream://d426d825586e83b56dc45b07e0b32834872ec273&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 huesca-mirandes 19:30
-plugin://program.plexus/?mode=1&url=acestream://677f43f8b2a646aae640c6cefb6cbd8ddbbf98a4&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://1902d594b27e9965be1cbdc3546cfb048ec12588&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 cadiz-numancia 19:30
-plugin://program.plexus/?mode=1&url=acestream://73a54587b07fad2aa2887e7834cafc55a7939ed0&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://5178725227a75a4172e52bbf4eb16391d6a6b3a7&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 basket:andorra-valencia 15:30
 plugin://program.plexus/?mode=1&url=acestream://49833530c1ef566b200b91ec562c7373c97e80ce&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 basket:madrid-gran canaria 18:30
