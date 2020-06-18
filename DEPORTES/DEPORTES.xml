@@ -11,7 +11,7 @@ https://cdo0.dailysport.pw/14/14.m3u8
 https://cdo0.dailysport.pw/9/9.m3u8
 #EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
 https://cdo0.dailysport.pw/13/13.m3u8
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 huesca mirandes 19:30
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 alcorcon-sporting
 https://cdo0.dailysport.pw/7/7.m3u8
 #EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 M liga 
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26046&t=live&f=m3u8
@@ -23,7 +23,7 @@ http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=3819&t=
 plugin://program.plexus/?mode=1&url=acestream://3ddf10eb9193698460f56e867c9c4c0ca8aea6ca&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 liga tvbar multi audio
 plugin://program.plexus/?mode=1&url=acestream://5e64d65136f7e1cb0646e108a3fc860f9bdd7cc8&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 huesca-mirandes 19:30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 alcorcon-sporting 21:45
 plugin://program.plexus/?mode=1&url=acestream://1902d594b27e9965be1cbdc3546cfb048ec12588&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 cadiz-numancia 19:30
 plugin://program.plexus/?mode=1&url=acestream://5178725227a75a4172e52bbf4eb16391d6a6b3a7&mode=1&name=acestream&mode=1&name=
