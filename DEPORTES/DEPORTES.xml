@@ -27,7 +27,7 @@ plugin://program.plexus/?mode=1&url=acestream://5e64d65136f7e1cb0646e108a3fc860f
 plugin://program.plexus/?mode=1&url=acestream://1902d594b27e9965be1cbdc3546cfb048ec12588&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 cadiz-numancia 19:30
 plugin://program.plexus/?mode=1&url=acestream://5178725227a75a4172e52bbf4eb16391d6a6b3a7&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 basket:andorra-valencia 15:30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 basket:zaragoza-burgos 21:30
 plugin://program.plexus/?mode=1&url=acestream://49833530c1ef566b200b91ec562c7373c97e80ce&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 basket:madrid-gran canaria 18:30
 plugin://program.plexus/?mode=1&url=acestream://1a8234c8451a4a0de81f492f9a1e7d31ecd531e0&mode=1&name=acestream&mode=1&name=
