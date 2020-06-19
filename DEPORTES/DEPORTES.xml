@@ -22,7 +22,7 @@ http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=3819&t=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 granada-villareal 19:30
 plugin://program.plexus/?mode=1&url=acestream://341a5255201b796d925f409dc91ea317353efa92&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 liga tvbar multi audio
-plugin://program.plexus/?mode=1&url=acestream://5e64d65136f7e1cb0646e108a3fc860f9bdd7cc8&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://74fbbfe48a436527aa00ab6b21ece1f99be52bf9&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 elche-girona 19:30
 plugin://program.plexus/?mode=1&url=acestream://73a54587b07fad2aa2887e7834cafc55a7939ed0&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 premier league
