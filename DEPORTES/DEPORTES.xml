@@ -19,17 +19,17 @@ http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26046&t
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26140&t=live&f=m3u8
 #EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 Vamos
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=3819&t=live&f=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 madrid-valencia 22:00
-plugin://program.plexus/?mode=1&url=acestream://3ddf10eb9193698460f56e867c9c4c0ca8aea6ca&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 granada-villareal 19:30
+plugin://program.plexus/?mode=1&url=acestream://e0fb6aa31a35544cd66d88906f61431bea23f6f5&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 liga tvbar multi audio
 plugin://program.plexus/?mode=1&url=acestream://5e64d65136f7e1cb0646e108a3fc860f9bdd7cc8&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 alcorcon-sporting 21:45
-plugin://program.plexus/?mode=1&url=acestream://1902d594b27e9965be1cbdc3546cfb048ec12588&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 cadiz-numancia 19:30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 elche-girona 19:30
 plugin://program.plexus/?mode=1&url=acestream://5178725227a75a4172e52bbf4eb16391d6a6b3a7&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 basket:zaragoza-burgos 21:30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 premier league
+plugin://program.plexus/?mode=1&url=acestream://ae1a7fedd471cb0ff01f7ba658d99c6a18da5472&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 basket:joventud-bilbao 15:30
 plugin://program.plexus/?mode=1&url=acestream://49833530c1ef566b200b91ec562c7373c97e80ce&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 basket:madrid-gran canaria 18:30
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 basket:unicaja-barsa 18:30
 plugin://program.plexus/?mode=1&url=acestream://1a8234c8451a4a0de81f492f9a1e7d31ecd531e0&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sinevento
 plugin://program.plexus/?mode=1&url=acestream://73a54587b07fad2aa2887e7834cafc55a7939ed0&mode=1&name=acestream&mode=1&name=
