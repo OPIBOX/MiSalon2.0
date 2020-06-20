@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 la liga
-https://cdnx.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg",canal 2 tottenham-united 21:15
+https://cdo0.dailysport.pw/1/1.m3u8
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg",canal 2 sin evento
 https://cdnx.dailysport.pw/4/4.m3u8
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 la liga
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 sin evento
 https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=LbpV-ZWZXU3rItvnflpMag&e=1592610382
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 basket:unicaja-barsa 18:30
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 sin evento
 https://cdnx.dailysport.pw/8/8.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
 https://cdndailysport.azureedge.net/LiveApp/streams/712561169112914701916921.m3u8
-#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 granada-villareal 19:30
+#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
 https://cdnx.dailysport.pw/7/7.m3u8
 #EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 sin evento
 https://cdo0.dailysport.pw/7/7.m3u8
@@ -21,7 +21,7 @@ http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26140&t
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=3819&t=live&f=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga
 plugin://program.plexus/?mode=1&url=acestream://4538f43e1532e6098d5b512a06f486d567ecd9dc&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 liga tvbar multi audio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 liga sin evento
 plugin://program.plexus/?mode=1&url=acestream://74fbbfe48a436527aa00ab6b21ece1f99be52bf9&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 liga segunda
 plugin://program.plexus/?mode=1&url=acestream://7db297b9a0679adfc1394418ec7d108b8f08f858&mode=1&name=acestream&mode=1&name=
@@ -31,7 +31,7 @@ plugin://program.plexus/?mode=1&url=acestream://f8a53374e6760f31b666d2ae6980d27b
 plugin://program.plexus/?mode=1&url=acestream://622d2363224aef6fb7897e6aa0ab54f298686bf6&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 basket
 plugin://program.plexus/?mode=1&url=acestream://e0d1b2a0cb32f9964ba452c91b2bceeac8a6d839&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sinevento
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://7db297b9a0679adfc1394418ec7d108b8f08f858&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
 plugin://program.plexus/?mode=1&url=acestream://1a8234c8451a4a0de81f492f9a1e7d31ecd531e0&mode=1&name=acestream&mode=1&name=
