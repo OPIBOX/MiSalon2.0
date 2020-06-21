@@ -20,16 +20,16 @@ http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26140&t
 #EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 Vamos
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=3819&t=live&f=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga
-plugin://program.plexus/?mode=1&url=acestream://4538f43e1532e6098d5b512a06f486d567ecd9dc&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 liga sin evento
-plugin://program.plexus/?mode=1&url=acestream://74fbbfe48a436527aa00ab6b21ece1f99be52bf9&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 liga segunda
-plugin://program.plexus/?mode=1&url=acestream://7db297b9a0679adfc1394418ec7d108b8f08f858&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 premier league
-plugin://program.plexus/?mode=1&url=acestream://f8a53374e6760f31b666d2ae6980d27ba649dd4b&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://78g8g480fgy34uge8fg37g492fh0neoh3383nnd83&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 premier
+plugin://program.plexus/?mode=1&url=acestream://abcccuh337dg92i3be2yg2g3eiywgrd3yeg2i1&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 everton-liverpool
+plugin://program.plexus/?mode=1&url=acestream://61qr61re1796fud186y3fvfwydi792gdb&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 serie A
+plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 bundesliga
 plugin://program.plexus/?mode=1&url=acestream://622d2363224aef6fb7897e6aa0ab54f298686bf6&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 basket
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
 plugin://program.plexus/?mode=1&url=acestream://e0d1b2a0cb32f9964ba452c91b2bceeac8a6d839&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://7db297b9a0679adfc1394418ec7d108b8f08f858&mode=1&name=acestream&mode=1&name=
