@@ -27,13 +27,13 @@ plugin://program.plexus/?mode=1&url=acestream://abcccuh337dg92i3be2yg2g3eiywgrd3
 plugin://program.plexus/?mode=1&url=acestream://61qr61re1796fud186y3fvfwydi792gdb&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 serie A
 plugin://program.plexus/?mode=1&url=acestream://de21d7f67a77d57a9127cea08b31dad29b39fd82&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 bundesliga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
 plugin://program.plexus/?mode=1&url=acestream://622d2363224aef6fb7897e6aa0ab54f298686bf6&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
 plugin://program.plexus/?mode=1&url=acestream://e0d1b2a0cb32f9964ba452c91b2bceeac8a6d839&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://7db297b9a0679adfc1394418ec7d108b8f08f858&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
-plugin://program.plexus/?mode=1&url=acestream://1a8234c8451a4a0de81f492f9a1e7d31ecd531e0&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 la liga tv multiaudio
+plugin://program.plexus/?mode=1&url=acestream://7dcce1616f485a95ed2d5215c53bc0ddce5c7a75&mode=1&name=acestream&mode=1&name=
 
 
