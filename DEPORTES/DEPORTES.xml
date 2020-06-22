@@ -34,6 +34,6 @@ plugin://program.plexus/?mode=1&url=acestream://e0d1b2a0cb32f9964ba452c91b2bceea
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://7db297b9a0679adfc1394418ec7d108b8f08f858&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 la liga tv multiaudio
-plugin://program.plexus/?mode=1&url=acestream://7dcce1616f485a95ed2d5215c53bc0ddce5c7a75&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://04d2e564d1aa3e14ae8cc0df1ff21c8f088fd1af&mode=1&name=acestream&mode=1&name=
 
 
