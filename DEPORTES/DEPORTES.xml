@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 la liga
-https://cdo0.dailysport.pw/b1/1.m3u8
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 premier
+https://cdo0.dailysport.pw/1/1.m3u8
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 chelsea-city
 https://cdo0.dailysport.pw/4/4.m3u8
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 la liga
-https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=gW7NUF9IcTvZUvZFhwL59A&e=1593053900
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 serie A
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 sin evento
+https://cdo0.dailysport.pw/epl1/1.m3u8
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 sin evento
 https://cdo0.dailysport.pw/11/11.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
 https://cdo0.dailysport.pw/9/9.m3u8
@@ -32,7 +32,7 @@ plugin://program.plexus/?mode=1&url=acestream://622d2363224aef6fb7897e6aa0ab54f2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
 plugin://program.plexus/?mode=1&url=acestream://e0d1b2a0cb32f9964ba452c91b2bceeac8a6d839&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
-plugin://program.plexus/?mode=1&url=acestream://7db297b9a0679adfc1394418ec7d108b8f08f858&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://fd49c9860561e7a031a07278ec62c10ad60ab80c&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 la liga tv multiaudio
 plugin://program.plexus/?mode=1&url=acestream://b83b282b76795fe39e2c2245e454a6104df0020c&mode=1&name=acestream&mode=1&name=
 
