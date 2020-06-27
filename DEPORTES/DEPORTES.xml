@@ -7,12 +7,12 @@ https://cdo0.dailysport.pw/5/5.m3u8
 https://cdo0.dailysport.pw/11/11.m3u8
 #EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 dortmund-hoffenheim
 https://ul.cdn946.net:8443/hls/affixj.m3u8?s=sqexmUdSto1_2xj4JZ59rw&e=1593286729
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
-https://cdo0.dailysport.pw/9/9.m3u8
-#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
-https://cdo0.dailysport.pw/8/8.m3u8
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 sin evento
-http://push111.solivan.xyz/hls/channel21hd40/chunks.m3u8
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 UFC 12:00
+https://ul.cdn946.net:8443/hls/56cpjd.m3u8?s=oIoyJ1LEQdOFNI7jbBdFcw&e=1593316939
+#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 UFC 2:00
+https://ul.cdn946.net:8443/hls/ataqquvtk.m3u8?s=JoVseeYStPOa4w4lDl-JMA&e=1593317031
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 UFC 12:00/2:00
+https://ul.cdn946.net:8443/hls/dkf41ble0.m3u8?s=M04EQyPyVV8kizrqyRRnmw&e=1593317132
 #EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 M liga 
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26046&t=live&f=m3u8
 #EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/nine-706889_960_720.jpg" group-title="deportes",canal 9 M liga campeones
