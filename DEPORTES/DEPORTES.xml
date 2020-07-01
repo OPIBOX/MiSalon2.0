@@ -9,17 +9,17 @@ https://ul.cdn946.net:8443/hls/p7mq6nc7v6i.m3u8?s=pY4bpJBtDvDGmga8PKgXwg&e=15936
 https://ul.cdn946.net:8443/hls/waqq3o4.m3u8?s=E-IyW1jzorLazkNNa9sceQ&e=1593638531
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 inter-brescia
 https://ul.cdn946.net:8443/hls/9nncq7gl6aiw1v.m3u8?s=LuWKhRukkCaT-HkRJU4DMw&e=1593638714
-#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
-https://ul.cdn946.net:8443/hls/ataqquvtk.m3u8?s=JoVseeYStPOa4w4lDl-JMA&e=1593317031
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 sin evento
-https://ul.cdn946.net:8443/hls/dkf41ble0.m3u8?s=M04EQyPyVV8kizrqyRRnmw&e=1593317132
+#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 alaves-granada
+https://cdo0.dailysport.pw/10/10.m3u8
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 west ham-chelsea
+https://cdo0.dailysport.pw/5/5.m3u8
 #EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 M liga 
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26046&t=live&f=m3u8
 #EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/nine-706889_960_720.jpg" group-title="deportes",canal 9 M liga campeones
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26140&t=live&f=m3u8
 #EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 Vamos
 http://play.serpienteserver.com:8080/live/hadex/nnPvVQVfYt/83767.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga 1080 multiaudio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 sin evento
 plugin://program.plexus/?mode=1&url=acestream://022898be613aca7177196c4e79eeebafddf54576&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 basket
 plugin://program.plexus/?mode=1&url=acestream://bdc10df1a97d0ee3c397d379006d0a633d783441&mode=1&name=acestream&mode=1&name=
