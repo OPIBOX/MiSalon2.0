@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 la liga
-https://cdo0.dailysport.pw/1/1.m3u8
+https://cdo0.dailysport.pw/b1/1.m3u8
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 atalanta-napoli
 https://ul.cdn946.net:8443/hls/o1n49qeq.m3u8?s=zhm1jPR4Xj4DPxb9rpAhkQ&e=1593726377
 #EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 la premier
@@ -9,8 +9,8 @@ http://34.120.120.19/live/nbc/chunks.m3u8
 https://cdo0.dailysport.pw/5/5.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 liga tv bar
 https://u86715.cdn884.net:8443/hls/6yibrphqxih.m3u8?s=WnEJoTvhLFKZJlaT7PM-Xg&e=1593741238
-#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
-https://cdo0.dailysport.pw/10/10.m3u8
+#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 la liga
+https://ul.cdn946.net:8443/hls/55ught5e.m3u8?s=pWVvxBHEPLmhOYfqtjeiag&e=1593741085
 #EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 sin evento
 https://cdo0.dailysport.pw/5/5.m3u8
 #EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 M liga 
