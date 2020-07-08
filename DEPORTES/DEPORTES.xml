@@ -3,7 +3,7 @@
 https://cdo0.dailysport.pw/a1/1.m3u8
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 brighton-liverpool
 https://cdo0.dailysport.pw/15/15.m3u8
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 brightok-liverpool dazn
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 sin evento
 https://ul.cdn946.net:8443/hls/ataqquvtk.m3u8?s=TNEV7xr3tLbLIQpg0Miy7w&e=1594249001
 #EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 serie A
 https://cdo0.dailysport.pw/11/11.m3u8
@@ -17,7 +17,7 @@ https://cdo0.dailysport.pw/20/20.m3u8
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26046&t=live&f=m3u8
 #EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/nine-706889_960_720.jpg" group-title="deportes",canal 9 M liga campeones
 http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=26140&t=live&f=m3u8
-#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 Vamos
+#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 sin evento
 http://play.serpienteserver.com:8080/live/hadex/nnPvVQVfYt/83767.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 sin evento
 plugin://program.plexus/?mode=1&url=acestream://ed7136b065ed648c2402778c533d1f9e86cb7f9e&mode=1&name=acestream&mode=1&name=
