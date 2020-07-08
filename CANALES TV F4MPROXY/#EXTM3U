@@ -1,73 +1,47 @@
 <item>
-</item>
-<item> 
-<title>La 1 HD [COLOR red][/COLOR]</title>
-<link>http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
-</item>
-<item> 
-<title>La 2 HD [COLOR red][/COLOR]</title>
-<link>http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png</thumbnail>
-</item>
-<item> 
-<title>Antena 3 HD [COLOR red][/COLOR]</title>
-<link>http://suptv-nord.com/live/nord.php?z=997&u=zOwcSmbDpK&s=888888118788&id=3790&t=live&f=m3u8</link>
-<thumbnail>https://i.imgur.com/NsVrEzv.png</thumbnail>
-</item>
-<item> 
-<title>Cuatro HD [COLOR red][/COLOR]</title>
-<link>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png</thumbnail>
-</item>
-<item> 
-<title>Telecinco HD [COLOR red][/COLOR]</title>
-<link>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/32/Telecinco_HDTV.png</thumbnail>
-</item>
-<item> 
-<title>Lasexta HD [COLOR red][/COLOR]</title>
-<link>https://livestartover-i.akamaized.net/lasexta/master.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LaSexta_HD_Logo_2016.png/1200px-LaSexta_HD_Logo_2016.png</thumbnail>
+<title> [COLOR blue]La 1 HD  [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/tve1/</page>
+</regex>
 </item>
 <item>
-<title>Movistar</title>
-<link>http://Ignoreme</link>
+<title> [COLOR blue]La sexta HD - [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/lasexta/</page>
+</regex>
 </item>
-<item> 
-<title>#0 HD [COLOR red][/COLOR]</title>
-<link>http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59427</link>
-<thumbnail>https://3.bp.blogspot.com/-vDd8zKf22LQ/Vq4k7UIVQzI/AAAAAAAAadE/pIeaJd3A5s4/s1600/0.png</thumbnail>
-</item>
-<item> 
-<title>#Vamos HD [COLOR red][/COLOR]</title>
-<link>http://moontools.me:8080/anthony1998/Ry7DKXJv28/1123776</link>
-<thumbnail>https://deporticket.blob.core.windows.net/awebs/movistar-medio-maraton-de-madrid/vamos-positivo-8-png.png</thumbnail>
-</item>
-<item> 
-<title>M La liga HD [COLOR red][/COLOR]</title>
-<link>http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59467</link>
-<thumbnail>https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png</thumbnail>
-</item>
-<item> 
-<title>M Liga de campeones HD [COLOR red][/COLOR]</title>
-<link>http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59507</link>
-<thumbnail>https://satcesc.com/wp-content/uploads/2018/08/Movistar-Liga-de-Campeones.jpg</thumbnail>
-</item>
-<item>
-<title>U-BEAT UHF [COLOR red][/COLOR]</title>
-<link>http://play.serpienteserver.com:8080/live/hadex/nnPvVQVfYt/86689.ts</link>
-<thumbnail>https://i.blogs.es/b287af/u-beat-lvp-mediaset/1366_521.jpg</thumbnail>
-</item>
-<item>
-<title>Somos [COLOR red][/COLOR]</title>
-<link>http://maquinasclub.com:8080/Garajeariznavarra/1402/4972</link>
-<thumbnail></thumbnail>
-</item>
-<item>
-<title>M la liga 1[COLOR red][/COLOR]</title>
-<link>http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59481</link>
-<thumbnail></thumbnail>
-</item>
+
 
 
