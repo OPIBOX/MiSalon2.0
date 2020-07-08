@@ -1,6 +1,6 @@
 <item>
-<title> [COLOR red]Estrenos- [/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png</thumbnail>
+<title> [COLOR red]LALIGA HD [/COLOR]</title>
+<thumbnail>https://i1.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
@@ -17,6 +17,6 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/espana/movistar-estrenos</page>
+<page>https://adictosalatele.com/TV/deportes/movistar-laliga/</page>
 </regex>
 </item>
