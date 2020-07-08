@@ -45,7 +45,7 @@
 </item>
 <item>
 <title> [COLOR blue]Antena 3  [/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
