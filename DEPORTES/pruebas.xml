@@ -11,12 +11,12 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>https://dailysport.pw/</referer>
+<referer>https://adictosaldeporte.com</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://dailysport.pw/c1.php</page>
+<page>https://adictosaldeporte.com/ver-laliga-online-y-en-directo-gratis-24h/</page>
 </regex>
 </item>
