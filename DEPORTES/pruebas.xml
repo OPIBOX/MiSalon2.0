@@ -1,5 +1,5 @@
 <item>
-<title> [COLOR black]Laliga HD - [/COLOR]</title>
+<title> [COLOR black]Laliga HD_prueba - [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
@@ -11,12 +11,12 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>https://adictosaldeporte.com</referer>
+<referer>https://adictosalatele.com</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosaldeporte.com/ver-laliga-online-y-en-directo-gratis-24h/</page>
+<page>https://adictosalatele.com/movistar-la-liga-en-directo-online-gratis/</page>
 </regex>
 </item>
