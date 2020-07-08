@@ -1,108 +1,22 @@
 <item>
-<title>[COLOR lime][B]Nacionales[/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<title> [COLOR white]La sexta HD - [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
-<name>GetPageUrl</name>
-<page>https://dailysport.pw</page>
-<thumbnail>https://i.blogs.es/c26042/tdt_phixr/450_1000.jpg</thumbnail></item>
-
-<item>
-<title>[COLOR white][B]La 1[/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
-<regex>
-<name>GetPageUrl</name>
-<page>https://vergol.com/bgjhykdmbtj668/live/la1.php</page>
-<expres>source: '(.*?)'</expres>
-<rawpost>manzana66=12345</rawpost>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-<referer>http://vergol.com/</referer>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
 </regex>
-<thumbnail>https://cdn.sincroguia.tv/uploads/images/l/a/1/xla1.jpg.pagespeed.ic.Bc2wc9wgMi.jpg</thumbnail></item>
-
-<item>
-<title>[COLOR white][B]Daily sport 1 [/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
-<name>GetPageUrl</name>
-<page>https://dailysport.pw/c7.php</page>
-<expres>source: '(.*?)'</expres>
-<rawpost>manzana66=12345</rawpost>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
 <connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-<referer>http://vergol.com/</referer>
 </regex>
-<thumbnail>https://www.formulatv.com/images/programas/posters/100/141/1_m3.jpg</thumbnail></item>
-
-
-<item>
-<title>[COLOR white][B]Cuatro[/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
-<name>GetPageUrl</name>
-<page>https://vergol.com/bgjhykdmbtj668/live1/cuatro.php</page>
-<expres>source: '(.*?)'</expres>
-<rawpost>manzana66=12345</rawpost>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-<referer>http://vergol.com/</referer>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/lasexta/</page>
 </regex>
-<thumbnail>https://www.formulatv.com/images/programas/posters/100/196/1_m3.jpg</thumbnail></item>
-
-<item>
-<title>[COLOR white][B]Telecinco[/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
-<regex>
-<name>GetPageUrl</name>
-<page>https://vergol.com/bgjhykdmbtj668/live1/telecinco2.php</page>
-<expres>source: '(.*?)'</expres>
-<rawpost>manzana66=12345</rawpost>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-<referer>http://vergol.com/</referer>
-</regex>
-<thumbnail>https://www.formulatv.com/images/programas/posters/000/7/1_m3.jpg</thumbnail></item>
-
-<item>
-<title>[COLOR white][B]La Sexta[/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
-<regex>
-<name>GetPageUrl</name>
-<page>https://vergol.com/bgjhykdmbtj668/live1/lasexta.php</page>
-<expres>source: '(.*?)'</expres>
-<rawpost>manzana66=12345</rawpost>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-<referer>http://vergol.com/</referer>
-</regex>
-<thumbnail>http://www.fundacionalfanar.org/wordpress/wp-content/uploads/2016/07/Logo-La-Sexta1.png</thumbnail></item>
-
-<item>
-<title>[COLOR white][B]Nova[/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
-<regex>
-<name>GetPageUrl</name>
-<page>https://vergol.com/bgjhykdmbtj668/live/nova.php</page>
-<expres>source: '(.*?)'</expres>
-<rawpost>manzana66=12345</rawpost>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-<referer>http://vergol.com/</referer>
-</regex>
-<thumbnail>http://directostv.teleame.com/wp-content/uploads/2016/01/nova-en-directo-online.png</thumbnail></item>
-
-<item>
-<title>[COLOR white][B]Divinity[/B][/COLOR]</title>
-<link>https:$doregex[GetPageUrl
+</item>
