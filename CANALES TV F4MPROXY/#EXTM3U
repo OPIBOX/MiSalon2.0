@@ -259,6 +259,6 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/dcine-n-online-y-en-directo-gratis/</page>
+<page>https://adictosalatele.com/TV/espana/dcineespanol//</page>
 </regex>
 </item>
