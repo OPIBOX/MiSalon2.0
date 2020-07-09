@@ -1,5 +1,5 @@
 <item>
-<title> [COLOR red]M LALIGA HD[/COLOR]</title>
+<title> [COLOR green]M LALIGA HD[/COLOR]</title>
 <thumbnail>https://i1.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
