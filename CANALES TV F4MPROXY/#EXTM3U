@@ -109,7 +109,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR blue]La sexta - [/COLOR]</title>
+<title> [COLOR blue]La sexta [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/320px-La_Sexta_%28A3M%29.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
@@ -176,7 +176,7 @@
 </item>
 <item>
 <title> [COLOR blue]M Accion  [/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png</thumbnail>
+<thumbnail>https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
