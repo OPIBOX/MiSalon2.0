@@ -153,7 +153,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR blue]M Estrenos [/COLOR]</title>
+<title> [COLOR red]M Estrenos [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1598px-Movistar_Estrenos.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
@@ -175,7 +175,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR blue]M Accion [/COLOR]</title>
+<title> [COLOR red]M Accion [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1200px-Movistar_Acción.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
