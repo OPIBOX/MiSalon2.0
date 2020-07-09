@@ -39,7 +39,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://freeservice.info/tg.php?id=live8x</page>
+<page>https://adictosalatele.com/TV/deportes/movistar-laliga/live3.php</page>
 </regex>
 </item>
 <item>
