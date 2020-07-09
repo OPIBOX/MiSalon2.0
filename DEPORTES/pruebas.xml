@@ -21,7 +21,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR green]LALIGA TV BAR[/COLOR]</title>
+<title> [COLOR green]LALIGA TV[/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/LaLiga_%28small%29.svg/1142px-LaLiga_%28small%29.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
