@@ -62,6 +62,7 @@
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
 <page>https://adictosalatele.com/TV/espana/antena3/</page>
+</regex>
 </item>
 <item>
 <title> [COLOR blue]Cuatro [/COLOR]</title>
