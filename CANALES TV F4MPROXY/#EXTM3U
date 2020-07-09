@@ -175,7 +175,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR blue]M Accion  [/COLOR]</title>
+<title> [COLOR blue]M Accion [/COLOR]</title>
 <thumbnail>https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
