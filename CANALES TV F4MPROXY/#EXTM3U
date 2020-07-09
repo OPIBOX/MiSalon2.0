@@ -174,6 +174,7 @@
 <page>https://adictosalatele.com/TV/espana/movistar-estrenos/</page>
 </regex>
 </item>
+<item>
 <title> [COLOR blue]M Accion [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1600px-Movistar_Acción.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
