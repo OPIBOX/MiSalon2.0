@@ -260,6 +260,6 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/espana/fox/</page>
+<page>https://adictosalatele.com/TV/espana/decineespanol/</page>
 </regex>
 </item>
