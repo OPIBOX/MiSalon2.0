@@ -17,6 +17,6 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosaldeporte.com/TV/deportes/fox-sports1ar//</page>
+<page>https://adictosaldeporte.com/TV/deportes/fox-sports1ar/</page>
 </regex>
 </item>
