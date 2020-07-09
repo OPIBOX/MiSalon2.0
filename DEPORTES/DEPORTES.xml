@@ -21,8 +21,8 @@ http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59507
 http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59481
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga 
 plugin://program.plexus/?mode=1&url=acestream://57aea5711471237e69f296c8f340d6a9770af15e&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
-plugin://program.plexus/?mode=1&url=acestream://04351eb9c4bae998c0d3e832dfea7843cf8581f5&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 la liga 1
+plugin://program.plexus/?mode=1&url=acestream://688a097d3bab866d59ab4827a656c64649f80493&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 sin evento
 plugin://program.plexus/?mode=1&url=acestream://61qr61re1796fud186y3fvfwydi792gdb&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
