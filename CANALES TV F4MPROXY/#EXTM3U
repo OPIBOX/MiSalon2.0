@@ -241,7 +241,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR blue]M cine Ñ [/COLOR]</title>
+<title> [COLOR blue]M cine Ñ  [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Español.svg/1600px-Movistar_Cine_Español.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
