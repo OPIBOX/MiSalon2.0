@@ -176,7 +176,7 @@
 </item>
 <item>
 <title> [COLOR blue]M Accion  [/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1600px-Movistar_Acción.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
@@ -241,7 +241,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR blue]M Cine Español [/COLOR]</title>
+<title> [COLOR blue]M Cine Español  [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Español.svg/1600px-Movistar_Cine_Español.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
@@ -259,7 +259,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/espana/dcineespanol/</page>
+<page>https://adictosalatele.com/TV/espana/movistar-accion</page>
 </regex>
 </item>
 
