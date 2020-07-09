@@ -176,11 +176,7 @@
 </item>
 <item>
 <title> [COLOR blue]M Accion  [/COLOR]</title>
-<<<<<<< HEAD
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acción.svg/1600px-Movistar_Acción.svg.png</thumbnail>
-=======
 <thumbnail>https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png</thumbnail>
->>>>>>> deb3185f1e20e1fcdd87ebf7ececd385dd60b8e3
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
