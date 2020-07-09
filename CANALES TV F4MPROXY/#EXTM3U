@@ -239,6 +239,7 @@
 <expres>iframe.*?src="(.*?)"</expres>
 <page>https://adictosalatele.com/TV/espana/movistar-accion/</page>
 </regex>
+</item>
 <item>
 <title> [COLOR blue]M Comedia  [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1599px-Movistar_Comedia.svg.png</thumbnail>
