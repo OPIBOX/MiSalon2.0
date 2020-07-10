@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 la liga
 https://cdo0.dailysport.pw/b1/1.m3u8
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 bournemouth-tottenham
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 sin evento
 https://cdo0.dailysport.pw/15/15.m3u8
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 aston villa-united
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 sin evento
 https://cdo0.dailysport.pw/5/5.m3u8
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 serie A
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 sin evento
 https://cdo0.dailysport.pw/11/11.m3u8
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 eibar-leganes
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
 https://cdo0.dailysport.pw/10/10.m3u8
-#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 rayo-numancia
+#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
 https://cdo0.dailysport.pw/6/6.m3u8
 #EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 sin evento
 https://cdo0.dailysport.pw/20/20.m3u8
@@ -19,9 +19,9 @@ http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59467
 http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59507
 #EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 M liga 1
 http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59481
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 sin evento 
 plugin://program.plexus/?mode=1&url=acestream://57aea5711471237e69f296c8f340d6a9770af15e&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 la liga 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
 plugin://program.plexus/?mode=1&url=acestream://688a097d3bab866d59ab4827a656c64649f80493&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 sin evento
 plugin://program.plexus/?mode=1&url=acestream://61qr61re1796fud186y3fvfwydi792gdb&mode=1&name=acestream&mode=1&name=
