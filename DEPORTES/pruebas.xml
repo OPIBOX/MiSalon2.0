@@ -105,7 +105,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://vertelevision.tv/tv/deportes/f1.php</page>
+<page>http://vertelevision.tv/tv/deportes/f1.php</page>
 </regex>
 </item>
 
