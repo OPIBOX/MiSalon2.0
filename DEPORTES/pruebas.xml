@@ -65,7 +65,7 @@
 </regex>
 </item>
 <item>
-<title> [COLOR green]M FORMULA 1[/COLOR]</title>
+<title> [COLOR green]M FORMULA 1 HD[/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1598px-Movistar_Formula_1.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
