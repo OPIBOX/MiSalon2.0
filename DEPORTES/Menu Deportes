@@ -17,8 +17,16 @@
 <item>
 <title>[COLOR red]Enlaces M3U8[/COLOR] </title>
 <link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/m3u8%20bis</externallink>
+<externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/m3u8</externallink>
 <Info>Enlaces de deportes M3U8 [COLOR blue]Web para ver el deporte via web a traves de tu KODI[/COLOR]</Info>
 <thumbnail>https://listaiptvtelevision.com/wp-content/uploads/IPTV-España-1024x683.png</thumbnail>
 <fanart>https://listaiptvtelevision.com/wp-content/uploads/IPTV-España-1024x683.png</fanart>
+</item>
+<item>
+<title>[COLOR blue]lista[/COLOR] </title>
+<link>_</link>
+<externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/m3u8%20bis</externallink>
+<Info>Buscar contenido especifico</Info>
+<thumbnail>https://lh3.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3</thumbnail>
+<fanart>https://www.testdevelocidad.es/app/uploads/2017/08/acestream.jpg</fanart>
 </item>
