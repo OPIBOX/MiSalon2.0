@@ -99,13 +99,13 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>https://freeservice.info</referer>
+<referer>https://vertelevision.tv</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://freeservice.info/tg.php?id=live11x</page>
+<page>https://vertelevision.tv/tv/deportes/f1.php</page>
 </regex>
 </item>
 
