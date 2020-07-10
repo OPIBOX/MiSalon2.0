@@ -83,7 +83,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com//TV/deportes/formula1/</page>
+<page>https://adictosaldeporte.com//TV/deportes/formula1/</page>
 </regex>
 </item>
 
