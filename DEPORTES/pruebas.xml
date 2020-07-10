@@ -66,7 +66,7 @@
 </item>
 <item>
 <title> [COLOR green]M FORMULA 1[/COLOR]</title>
-<thumbnail>https://www.motor.es/fotos-noticias/2018/01/movistar-renueva-contrato-emision-f1-201842591_1.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1598px-Movistar_Formula_1.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
