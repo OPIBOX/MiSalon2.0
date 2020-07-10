@@ -77,7 +77,7 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>https://adictosalatele.com</referer>
+<referer>https://adictosaldeporte.com</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
