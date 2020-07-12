@@ -1,6 +1,6 @@
 <item>
-<title> [COLOR green]M LALIGA HD[/COLOR]</title>
-<thumbnail>https://i1.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png</thumbnail>
+<title> [COLOR green]M LALIGA CAMPEONES[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
@@ -17,7 +17,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/movistar-laliga/live.php</page>
+<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones/</page>
 </regex>
 </item>
 <item>
