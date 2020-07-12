@@ -17,7 +17,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones/</page>
+<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones/live.php</page>
 </regex>
 </item>
 <item>
