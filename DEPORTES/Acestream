@@ -9,13 +9,13 @@ plugin://program.plexus/?mode=1&url=acestream://0df730a223c41760622907a01fc13df1
 plugin://program.plexus/?mode=1&url=acestream://b39592338487161a256416b48838996b6f2d7aa8&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 barsa-osasuna
 plugin://program.plexus/?mode=1&url=acestream://ec7605547b9df759769a0b13e653a5793d15ca61&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
-plugin://program.plexus/?mode=1&url=acestream://524dad9b2e0eb334e8f3e6d262388be28a2c6800&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
-plugin://program.plexus/?mode=1&url=acestream://3ea0caa893814fec96b34126bf705754e839da01&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
-plugin://program.plexus/?mode=1&url=acestream://f9026c359b90773319efb2c01742d8742104b8b2&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 9 sin evento
-plugin://program.plexus/?mode=1&url=acestream://cfa78e0dc3a364207883ffafa66d36463d86435e&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 madrid-villareal
+plugin://program.plexus/?mode=1&url=acestream://6d39b6271f6283cdf203f4cec4384ceb9513f684&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 madrid-villareal
+plugin://program.plexus/?mode=1&url=acestream://15a1db57d241cea3bc82eee11d08c7e4896d698a&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 madrid-villareal
+plugin://program.plexus/?mode=1&url=acestream://cde7daa5f1741efeb1c516db0a7a2c92c0606b4a&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 9 madrid-villareal
+plugin://program.plexus/?mode=1&url=acestream://7cc21d4f210b6233bd533f566d3a3e52b1a48a59&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 10 sin evento
 plugin://program.plexus/?mode=1&url=acestream://cfa78e0dc3a364207883ffafa66d36463d86435e&mode=1&name=acestream&mode=1&name=
