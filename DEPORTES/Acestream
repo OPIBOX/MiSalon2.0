@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga
-plugin://program.plexus/?mode=1&url=acestream://b5c79eca1e36d47a21117c37a177f31343e3d93d&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 la liga
-plugin://program.plexus/?mode=1&url=acestream://573d7d06a1e456f060dafd720fd5b2470f7c76b0&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 la liga
-plugin://program.plexus/?mode=1&url=acestream://8b1faeecd1e32a92ca496ec6ffe676c2bfc9f442&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 la liga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 eibar-valladolid
+plugin://program.plexus/?mode=1&url=acestream://cfa78e0dc3a364207883ffafa66d36463d86435e&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sheffield-leicester
+plugin://program.plexus/?mode=1&url=acestream://6caf83a58efbb7ae5d9f38ae462f139326785396&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 everton-aston villa
+plugin://program.plexus/?mode=1&url=acestream://0df730a223c41760622907a01fc13df197daeb8d&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
 plugin://program.plexus/?mode=1&url=acestream://11d54636662a4f5d92965c870ba2dc57a4b17bb5&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
 plugin://program.plexus/?mode=1&url=acestream://d90cfa03f71d94bde96af8d1a3091267060e386b&mode=1&name=acestream&mode=1&name=
