@@ -6,7 +6,7 @@ plugin://program.plexus/?mode=1&url=acestream://390224af42feff95100ccdaaeae7bc32
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 Formula 1
 plugin://program.plexus/?mode=1&url=acestream://7014e3c5b450cc8ded445d9e39e343ca6632f367&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 Formula 1 sky
-plugin://program.plexus/?mode=1&url=acestream://2f85f5773880dfedf3e7512b9844bb05c49247c2&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://174b013e8726163888a0c0f2be3132f55250eafd&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 Moto gp
 plugin://program.plexus/?mode=1&url=acestream://2355a0f69f0ee8f80e4c49c3d54d75fdc3355378&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 UFC
