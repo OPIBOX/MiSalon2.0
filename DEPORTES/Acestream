@@ -15,7 +15,7 @@ plugin://program.plexus/?mode=1&url=acestream://e981172b5fc56e61e6ef2eb68809453e
 plugin://program.plexus/?mode=1&url=acestream://fd49c9860561e7a031a07278ec62c10ad60ab80c&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 Moto gp
 plugin://program.plexus/?mode=1&url=acestream://9dfbb6988c0ecbafd98b70ae1762f1f7b9f1f579&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 9 sin evento
-plugin://program.plexus/?mode=1&url=acestream://7cc21d4f210b6233bd533f566d3a3e52b1a48a59&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 9 Moto gp
+plugin://program.plexus/?mode=1&url=acestream://5cdb1f3b554dcc819596029184a481e71a196cad&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 10 sin evento
 plugin://program.plexus/?mode=1&url=acestream://cfa78e0dc3a364207883ffafa66d36463d86435e&mode=1&name=acestream&mode=1&name=
