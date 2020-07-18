@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 Formula 1
-plugin://program.plexus/?mode=1&url=acestream://40d889889cc4479d7427878503ebe0661876c556&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://c4a283cfe0dc23bbfba69cf32baec2ef92e31f94&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 Formula 1
 plugin://program.plexus/?mode=1&url=acestream://390224af42feff95100ccdaaeae7bc32c09207f9&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 Formula 1
