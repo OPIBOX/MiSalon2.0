@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 napoles-inter
-plugin://program.plexus/?mode=1&url=acestream://c37f81f313e2f5bcf7585e4852c83ee2b1f65b43&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 Formula 1
+plugin://program.plexus/?mode=1&url=acestream://68e4927cde5ef7f394b22e0791e78caedf19ad2c&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
 plugin://program.plexus/?mode=1&url=acestream://fbcbef20d0c99cca8ce5b623ba464d8b12741615&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 sin evento
