@@ -3,7 +3,7 @@
 plugin://program.plexus/?mode=1&url=acestream://c5e2a162cccc2a1c5c4d919cdd73b3c32bd3f3a5&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sevilla-roma
 plugin://program.plexus/?mode=1&url=acestream://539cd35be9fed0fa3e0fad538efb8d2ddafe0774&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 leverkusen-roma
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 leverkusen-rangers
 plugin://program.plexus/?mode=1&url=acestream://47ce0e275adcba65285b48f16b65bfbd809b5c1a&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
 plugin://program.plexus/?mode=1&url=acestream://641de6ec090933055e01b4165696beb6c48b2fd8&mode=1&name=acestream&mode=1&name=
