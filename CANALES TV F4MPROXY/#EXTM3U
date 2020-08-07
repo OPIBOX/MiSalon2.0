@@ -408,7 +408,7 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>vercanalestv1.com</referer>
+<referer>https://adictosalatele.com</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
