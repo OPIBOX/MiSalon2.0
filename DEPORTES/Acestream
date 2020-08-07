@@ -11,10 +11,10 @@ plugin://program.plexus/?mode=1&url=acestream://8ff7af37c6af27ec5b9cd34ded24352f
 plugin://program.plexus/?mode=1&url=acestream://a55bd3f15a2775fc90ba3120fb70cf8f346e47a8&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 city-madrid
 plugin://program.plexus/?mode=1&url=acestream://e5a8a5ee2027f67006f91823ddb51aa667c5d112&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
-plugin://program.plexus/?mode=1&url=acestream://fd49c9860561e7a031a07278ec62c10ad60ab80c&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
-plugin://program.plexus/?mode=1&url=acestream://9dfbb6988c0ecbafd98b70ae1762f1f7b9f1f579&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 juve-lyon
+plugin://program.plexus/?mode=1&url=acestream://8d0173a77051330604c3b34603dae9c2123c4e82&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 juve-lyon
+plugin://program.plexus/?mode=1&url=acestream://92550ac34357a69bf6c734145fa359197d62fec0&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 9 sin evento
 plugin://program.plexus/?mode=1&url=acestream://5cdb1f3b554dcc819596029184a481e71a196cad&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 10 sin evento
