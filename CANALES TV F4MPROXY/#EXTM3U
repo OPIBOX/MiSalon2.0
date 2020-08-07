@@ -414,6 +414,6 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>vercanalestv1.com/tv/documentales/national-geographic.html</page>
+<page>adictosalatele.com/TV/espana/national-geographic/</page>
 </regex>
 </item>
