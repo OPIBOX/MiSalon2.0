@@ -397,7 +397,7 @@
 </item>
 <item>
 <title> [COLOR blue]NAT GEO WILD[/COLOR]</title>
-<thumbnail>https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos_bw.png</thumbnail>
+<thumbnail>https://lh3.googleusercontent.com/proxy/XL0XWbX6oxXNapgFwtNUtWDapaA-J2EE-Ry6Snjr7PQnHUbZvWXX-y5EE88rHQbJwJkZol0EnjaZ4pNTyJ9v_nPpyZMfO9r7AcFpG-D6F2ib_72QSjE</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
