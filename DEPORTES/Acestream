@@ -3,9 +3,9 @@
 plugin://program.plexus/?mode=1&url=acestream://92550ac34357a69bf6c734145fa359197d62fec0&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 united-København
 plugin://program.plexus/?mode=1&url=acestream://8d0173a77051330604c3b34603dae9c2123c4e82&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 leverkusen-inter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 inter-leverkusen
 plugin://program.plexus/?mode=1&url=acestream://781f1e0f92475b086b3988bf45da9fbf88de3e63&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 leverkusen-inter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 inter-leverkusen
 plugin://program.plexus/?mode=1&url=acestream://b99222570084f62887dd5744d4aa03ce79f5a035&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
 plugin://program.plexus/?mode=1&url=acestream://a55bd3f15a2775fc90ba3120fb70cf8f346e47a8&mode=1&name=acestream&mode=1&name=
