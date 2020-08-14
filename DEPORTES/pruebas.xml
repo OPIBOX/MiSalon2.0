@@ -61,7 +61,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/dazn/opcion2</page>
+<page>https://adictosalatele.com/TV/deportes/dazn/opcion2.php/</page>
 </regex>
 </item>
 <item>
