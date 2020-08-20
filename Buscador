@@ -1,44 +1,41 @@
-<item>
-<title>Buscar Peliculas</title>
-<link>$doregex[primer]</link>
-<regex>
-<name>primer</name>
-<listrepeat><![CDATA[
-<title>[primer.param3]    [primer.param4]</title>
-<link>$doregex[enlace]</link>
-<thumbnail>[primer.param2]</thumbnail>
-<fanart>[primer.param2]</fanart>
-]]></listrepeat>
-<expres>(?s)title='.*?($doregex[buscador]).*?'.*?src='(.*?)'.*?alt='(.*?)'.*?hraf='(.*?)'<expres>
-<page>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/PELICULAS/MENUSAGAS</page>
-</regex>
-  <regex>
-<name>buscador</name>
-<expres><![CDATA[#$pyFunction
-import xbmc
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
-   dialog = xbmcgui.Dialog()
-   d = dialog.input('Buscador de Series', type=xbmcgui.INPUT_ALPHANUM).replace(" ", ".").replace("í", ".")
-   return d
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
- <name>enlace</name>
-<expres><![CDATA[#$pyFunction
-import urlresolver
-def GetLSProData(page_data,Cookie_Jar,m):
- url = '[primer.param4]'
- streamLink = urlresolver.resolve(url)
- return streamLink
-]]></expres>
- <page></page>
-<cookieJar></cookieJar>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0</agent>
-<Referer></Referer>
-<Accept>*/*</Accept>
-</regex>
-</item>
+title='1 - The Fast and The Forius: A todo gas' src='https://drive.google.com/file/d/13SgWe3-6cCC56tYgXsp6za0lEpHNzdqE/view' alt='https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/0/1/6/1002004000086101.jpg' hraf='https://filmfriki.files.wordpress.com/2012/01/the-fast-and-the-furious-poster.png'
+title='2 - Fast 2 Furius: A todo gas 2' src='https://drive.google.com/file/d/19keos_wiJ79ECLmMZdq9HtDFPL8xbfW3/view' alt='https://images-na.ssl-images-amazon.com/images/I/51MQ5ZMAPYL._SY445_.jpg' hraf='https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2015/04/02/218110.jpg'
+title='3 - A todo gas: Tokyo Race' src='https://drive.google.com/file/d/1EfCgCpn04bSVIRxrazQUR5tQwhKDXsJv/view' alt='https://i.etsystatic.com/10683147/r/il/fe130d/1423169492/il_570xN.1423169492_5a77.jpg' hraf='https://ffmedia.ign.com/filmforce/image/object/665/665274/tfatftokyo_marquee.jpg'
+title='pelicula' src='enlace pelicula' alt='thmb' hraf='fanart'
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
+title='' src='' alt='' hraf=''
