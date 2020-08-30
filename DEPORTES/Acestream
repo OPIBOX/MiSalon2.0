@@ -7,7 +7,7 @@ plugin://program.plexus/?mode=1&url=acestream://9a9e6a1dcac5521aa7f4c0a5aefbb21f
 plugin://program.plexus/?mode=1&url=acestream://53c48b4339f5d2205573c0c6c42f2110ef21e4e9&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 f1
 plugin://program.plexus/?mode=1&url=acestream://4296dec98163f37ce865b99494fb2cf965dd2536&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 f1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
 plugin://program.plexus/?mode=1&url=acestream://76f0e858b621c1dbb720f838942e44d893298d66&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
 plugin://program.plexus/?mode=1&url=acestream://6bf7f14ef410995c15e4cd93c70622dcce296d94&mode=1&name=acestream&mode=1&name=
