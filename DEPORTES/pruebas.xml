@@ -108,25 +108,3 @@
 <page>http://vertelevision.tv/tv/deportes/f1.php</page>
 </regex>
 </item>
-<item> 
-<title>prueba vidoza</title> 
-<link>$doregex[id3]</link> 
-<regex> 
-<name>id3</name> 
-<expres><![CDATA[#$pyFunction 
-def GetLSProData(page_data,Cookie_Jar,m): 
-   import resolveurl 
-   url = '' 
-   try: 
-       u = resolveurl.resolve(url) 
-   except: 
-       u = '' 
-   return u 
-]]></expres> 
-<page>https://vidoza.net/uzawmjuvsj0y.html</page> 
-</regex> 
-<info></info>   
-<fanart></fanart>    
-<thumbnail></thumbnail>       
-<item>
-
