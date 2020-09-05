@@ -6,14 +6,14 @@
 <expres><![CDATA[#$pyFunction 
 def GetLSProData(page_data,Cookie_Jar,m): 
    import resolveurl 
-   url = '<link>https://vidoza.net/4xq1smv4r1ad.html/file</link>' 
+   url = '' 
    try: 
        u = resolveurl.resolve(url) 
    except: 
        u = '' 
    return u 
 ]]></expres> 
-<page></page> 
+<page>https://vidoza.net/4xq1smv4r1ad.html/file</page> 
 </regex> 
 <info>Son Gokū, un niño huérfano pero fuerte que vive solo en el Monte Paoz, y Bulma, una adolescente de 16 años, se conocen cuando ella lo atropella mientras conduce por el Monte Paoz. Bulma está buscando, las Bolas de Dragón, 7 bolas mágicas que, al juntarse, convocan a Sherón, el Dios Dragón que otorga cualquier deseo. Antes de morir, el abuelo de Gokū le regaló a éste la bola de cuatro estrellas, llamada Sūshinchū. Bulma, que ya tiene dos bolas mágicas, le pide a Gokū que le ayude a buscar el resto de las bolas mágicas, para lo que utilizará un radar, inventado por ella misma. Censura:se censuró cuando bulma le enseña su ropa interior a goku. </info>   
 <thumbnail>https://3.bp.blogspot.com/-hfb68mit424/Wckhriaeg2I/AAAAAAAAALQ/uukki7s1em0V64wdWirA9uVj1Z0GNtnbACLcBGAs/s1600/dragon_ball_season_1_600x600_itunes_artwork_by_eddie09-d58sdbt.png</thumbnail>
