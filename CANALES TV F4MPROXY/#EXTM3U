@@ -482,3 +482,25 @@
 <page>https://adictosalatele.com/TV/espana/national-geographic/</page>
 </regex>
 </item>
+<item>
+<title> [COLOR blue]TOROS[/COLOR]</title>
+<thumbnail>https://www.mundoplus.tv/img/c633a68260db657cc90a5aed875d93a5</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/toros/</page>
+</regex>
+</item>
