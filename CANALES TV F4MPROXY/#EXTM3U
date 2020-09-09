@@ -517,13 +517,13 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>https://www.cmmedia.es/</referer>
+<referer>https://www.tdtchannels.com</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://www.cmmedia.es/en-directo/tv/#</page>
+<page>https://www.tdtchannels.com/television/CanalSurAndaluc%C3%ADa</page>
 </regex>
 </item></page>
 </regex>
