@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 f1
-https://cdndaily000.azureedge.net/LiveApp/streams/078896579643176733562230.m3u8
+https://cdk.dailysportlist.xyz/10/10.m3u8
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 f1
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8?Manujaz®
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 f1
+https://cdk.dailysportlist.xyz/epl6/6.m3u8?Manujaz®
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 evento
 https://vsd90.mycdn.me/hls/882700716682.m3u8/sig/GFzRqf19VOc/expires/1599464486570/srcIp/83.58.18.159/urls/45.136.22.60/clientType/0/srcAg/CHROME_ANDROID/mid/1775353339530/video.m3u8?p
 #EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 sin evento
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
