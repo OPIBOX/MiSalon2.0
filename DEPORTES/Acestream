@@ -7,10 +7,10 @@ plugin://program.plexus/?mode=1&url=acestream://02421fba491c0f759886a923873c6643
 plugin://program.plexus/?mode=1&url=acestream://221665f549b8893857c31ef0a65f0eef6874926b&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 f1
 plugin://program.plexus/?mode=1&url=acestream://9e1946eaf5c3013e549e2918a2ae96dbe0bb0ec6&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 premier league
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 moto gp
 plugin://program.plexus/?mode=1&url=acestream://819246ad0c73fdf76aeef16c33101a0df576ee7a&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 premier league
-plugin://program.plexus/?mode=1&url=acestream://23eeb276ffe4bab21a0dbe7f569a86712b5757b6&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
+plugin://program.plexus/?mode=1&url=acestream://9dfbb6988c0ecbafd98b70ae1762f1f7b9f1f579&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://6da6e15347280272877b8548cbc631485111e061&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
