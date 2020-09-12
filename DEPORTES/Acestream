@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 f1
-plugin://program.plexus/?mode=1&url=acestream://4b208b269ad0b035ec7e533af2aefee4b5ae2403&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://3939f1e6c5f9513c6e4679bde05a3f7b405b1c41&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 f1
-plugin://program.plexus/?mode=1&url=acestream://9a9e6a1dcac5521aa7f4c0a5aefbb21f78ab2e3f&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://02421fba491c0f759886a923873c664350975d05&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 f1
-plugin://program.plexus/?mode=1&url=acestream://c09e8f6fda68ec53f4acbf49068c40e629909342&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://221665f549b8893857c31ef0a65f0eef6874926b&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 f1
-plugin://program.plexus/?mode=1&url=acestream://c9e610cbaac966d0b6660ac76db1d8e97b337db0&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 f1
+plugin://program.plexus/?mode=1&url=acestream://9e1946eaf5c3013e549e2918a2ae96dbe0bb0ec6&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
 plugin://program.plexus/?mode=1&url=acestream://4046348bd91aa7a60d4c39a26190e37ca62dc66c&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 f1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
 plugin://program.plexus/?mode=1&url=acestream://b6acf6def58c855762a1c6e0a11cdb8d2ae03354&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 f1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://6da6e15347280272877b8548cbc631485111e061&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
 plugin://program.plexus/?mode=1&url=acestream://96045eaa4b02b4e221af19cde6c9ab3a8db1b975&mode=1&name=acestream&mode=1&name=
