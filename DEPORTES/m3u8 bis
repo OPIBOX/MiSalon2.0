@@ -11,8 +11,8 @@ https://cdk.dailysportlist.xyz/7/7.m3u8
 https://cdk.dailysportlist.xyz/epl1/1.m3u8
 #EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 la liga
 https://cdk.dailysportlist.xyz/1/1.m3u8
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 sin evento
-https://s410.clipwatching.com/hls/zx5x2uajqz2dxcne4zldvdp72woxaetcpra2jqelt,gd26jw33h6ctgld2mnq,5e24jw33h6nrnfvvlza,.urlset/master.m3u8
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 la liga latin
+https://cdk.dailysportlist.xyz/3/3.m3u8
 #EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 sin evento
 http://net.turbo-revon.cc:29500/nOxZ5e78mQ/32ujfHN8z1/59467
 #EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/nine-706889_960_720.jpg" group-title="deportes",canal 9 sin evento
