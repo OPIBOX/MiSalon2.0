@@ -10,7 +10,7 @@ https://fdaily.dailysportlist.xyz/5/5.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 la liga
 https://fdaily.dailysportlist.xyz/1/1.m3u8
 #EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 la liga
-http://185.162.8.175:6878/ace/manifest.m3u8?id=8d86e3e0c4b5b052c6ef095eb6ef023af9e70b27
+https://fdaily.dailysportlist.xyz/1/1.m3u8?Manujaz
 #EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 serie a
 http://185.162.8.175:6878/ace/manifest.m3u8?id=c872cdbfdc49bb781a9f140feec4dc37345527b4
 #EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 sin evento
