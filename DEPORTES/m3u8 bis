@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 F1
+#EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 sin evento
 https://fdaily.dailysportlist.xyz/20/20.m3u8
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 sin evento
 https://espn2-ak.espn.com/hls/live/2002491/espn2/espn2-p-4500/espn2-p-4500.m3u8
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 Moto gp
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 sin evento
 https://fdaily.dailysportlist.xyz/22/22.m3u8
 #EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 premier
-https://fdaily.dailysportlist.xyz/5/5.m3u8
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 la liga
+https://df.dailysportlist.xyz/epl1/1.m3u8
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
 https://fdaily.dailysportlist.xyz/1/1.m3u8
-#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 bundesliga/serie a/basket
+#EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
 https://fdaily.dailysportlist.xyz/15/15.m3u8
-#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 serie a/ligue 1
+#EXTINF:-1 tvg-name="Canal 7" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/seven-706891_1280.jpg" group-title="deportes",canal 7 sin evento
 https://fdaily.dailysportlist.xyz/8/8.m3u8
-#EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 basket
+#EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/eight-706890_960_720.jpg" group-title="deportes",canal 8 sin evento
 https://fdaily.dailysportlist.xyz/16/16.m3u8
-#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/nine-706889_960_720.jpg" group-title="deportes",canal 9 la liga smart
+#EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/nine-706889_960_720.jpg" group-title="deportes",canal 9 sin evento
 https://fdaily.dailysportlist.xyz/13/13.m3u8
-#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 ponfe-rayo
+#EXTINF:-1 tvg-name="Canal 10" tvg-logo="https://st.depositphotos.com/1002881/2529/i/950/depositphotos_25296543-stock-photo-number-ten.jpg" group-title="deportes",canal 10 sin evento
 https://fdaily.dailysportlist.xyz/12/12.m3u8
 #EXTINF:-1 tvg-name="M.LALIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg" group-title="deportes",sin evento
 https://u73165.cdn884.net:8443/hls/h6kg44f76gaa.m3u8?s=cC6rZOMhUo_8bYAkqF1_-g&e=1599922868
