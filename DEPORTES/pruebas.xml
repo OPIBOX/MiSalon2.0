@@ -11,13 +11,13 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>http://elitegol.me/</referer>
+<referer>https://adictosalatele.com</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>http://elitegol.me/ver-movistar-liga-de-campeones/</page>
+<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones</page>
 </regex>
 </item>
 <item>
