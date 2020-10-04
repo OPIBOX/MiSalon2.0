@@ -7,10 +7,10 @@ plugin://program.plexus/?mode=1&url=acestream://d579b769a4a1ddfde798d51a43c63001
 plugin://program.plexus/?mode=1&url=acestream://6e6cca4d09c738e655ee5d9418f14e1b0b96cb46&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 la liga
 plugin://program.plexus/?mode=1&url=acestream://db0d3afeddacfc6c5cbc881f73faf4659d6be6fd&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
-plugin://program.plexus/?mode=1&url=acestream://0308c1ab20baa67d24092d9dcf2a6004d844a223&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
-plugin://program.plexus/?mode=1&url=acestream://c872cdbfdc49bb781a9f140feec4dc37345527b4&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 liga campeones
+plugin://program.plexus/?mode=1&url=acestream://ed65384a4cf31c614555eca961e661e19b772aa4&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 vamos
+plugin://program.plexus/?mode=1&url=acestream://d34a054b0db3b874512ad18e02c1bdd6eb5b38c&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://6da6e15347280272877b8548cbc631485111e061&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
