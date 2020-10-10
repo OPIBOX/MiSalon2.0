@@ -5,8 +5,8 @@ plugin://program.plexus/?mode=1&url=acestream://ca9abb9a2e623a3e556befc4e3e68038
 plugin://program.plexus/?mode=1&url=acestream://e0a58e296e6fe83b5d10634fa322d132e0affaa5&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 F1
 plugin://program.plexus/?mode=1&url=acestream://bd419a0b7dd325185fd6ed60665b91b5d31eed49&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
-plugin://program.plexus/?mode=1&url=acestream://db0d3afeddacfc6c5cbc881f73faf4659d6be6fd&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 tenerife-rayo
+plugin://program.plexus/?mode=1&url=acestream://8cc3b7643ef1beffde088a8b37968e32aabb870f&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
 plugin://program.plexus/?mode=1&url=acestream://ed65384a4cf31c614555eca961e661e19b772aa4&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
