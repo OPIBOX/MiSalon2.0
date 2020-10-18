@@ -46,4 +46,35 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BYzJmYzAxZWMtNWJmZS00M2ZmLWFmMzMtYTA0MjE0NTczOTBkXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
 <fanart>https://www.nairaland.com/attachments/6798072_miraloquehashecho2018tvshow_jpeg6e8327b6451010087ef28514677b227b</fanart>
 </item>
+<item>
+<title>prueba</title>
+<link>$doregex[makelist6]</link>
+ <regex>
+<name>makelist6</name>
+<listrepeat><![CDATA[
+  <title>[B][COLOR white]elige la calidad $doregex[titulo11][/B][/COLOR]</title>
+<link>$doregex[titulo12]|Cookie=tu Cookie</link>
+]]></listrepeat>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re, requests, resolveurl
+    url = "https://drive.google.com/file/d/19w2IsD2wm0KRPE4pWrsv-UDV1MSSKd1S/view"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:80.0) Gecko/20100101 Firefox/80.0","Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8","Accept-Language": "es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3","Upgrade-Insecure-Requests": "1","Cache-Control": "max-age=0", "cookie": "Aquí tus cookies"}
+    logueo = requests.get(url, headers=headers)
+    r = logueo.content
+    return re.findall('(18|22|37).(https://r[^",]+).*?', r)      
+]]></expres>
+<page></page>
+</regex>
+  <regex>
+<name>titulo11</name>
+<expres>$pyFunction:('[makelist6.param1]').replace('18', 'sd').replace('22', '720').replace('37', '1080')</expres>
+<page></page>
+</regex>
+  <regex>
+<name>titulo12</name>
+<expres>$pyFunction:('[makelist6.param2]').replace('\\u0026', '&').replace('\\u003d', '=')</expres>
+<page></page>
+</regex>
+</item>
 
