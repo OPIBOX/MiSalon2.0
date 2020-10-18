@@ -1,4 +1,14 @@
 <item>
+        <title>prueba</title>    
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19w2IsD2wm0KRPE4pWrsv-UDV1MSSKd1S/view</link>
+        <thumbnail></thumbnail>
+        <genre>comedia</genre>
+        <info></info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - -->
+        <fanart></fanart>
+    </item>
+<item>
 <title>1 - Legítimo material para pajas</title>
 <resolveurl>https://drive.google.com/file/d/19w2IsD2wm0KRPE4pWrsv-UDV1MSSKd1S/view</resolveurl>
 <info></info>
