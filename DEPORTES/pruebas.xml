@@ -1,6 +1,6 @@
 <item>
-<title> [COLOR green]M LALIGA HD[/COLOR]</title>
-<thumbnail>https://i1.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png</thumbnail>
+<title> [COLOR blue]M L.Campeones[/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ec/Movistar_Liga_de_Campeones.svg</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
@@ -17,7 +17,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/movistar-laliga/live.php</page>
+<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones</page>
 </regex>
 </item>
 <item>
@@ -33,17 +33,17 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
-<referer>https://adictosalatele.com</referer>
+<referer>https://adictosaldeporte.com</referer>
 <connection>keep-alive</connection>
 </regex>
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/movistar-laliga/live3.php</page>
+<page>https://adictosaldeporte.com/TV/deportes/laliga/bar.php</page>
 </regex>
 </item>
 <item>
-<title> [COLOR green]DAZN España[/COLOR]</title>
+<title> [COLOR green]DAZN opcion 2[/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/1024px-DAZN_logo.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
@@ -61,11 +61,11 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/dazn/</page>
+<page>https://adictosalatele.com/TV/deportes/dazn/opcion2.php/</page>
 </regex>
 </item>
 <item>
-<title> [COLOR green]M FORMULA 1[/COLOR]</title>
+<title> [COLOR green]M FORMULA 1 HD[/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1598px-Movistar_Formula_1.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
@@ -83,7 +83,28 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/formula1/opcion2.php</page>
+<page>https://adictosalatele.com/TV/deportes/formula1/</page>
 </regex>
 </item>
-
+<item>
+<title> [COLOR green]dazn [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/1598px-Movistar_Formula_1.svg.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>http://freestreams-live1.com/</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>http://freestreams-live1.com/dazn-motogp/</page>
+</regex>
+</item>

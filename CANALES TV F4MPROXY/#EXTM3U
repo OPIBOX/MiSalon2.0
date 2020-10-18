@@ -39,7 +39,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/espana/tve2/</page>
+<page>https:/adictosalatele.com/TV/espana/tve2/</page>
 </regex>
 </item>
 <item>
@@ -330,6 +330,28 @@
 </regex>
 </item>
 <item>
+<title> [COLOR blue]TNT [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/tnt/</page>
+</regex>
+</item>
+<item>
 <title> [COLOR blue]AXN [/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1024px-AXN_logo_%282015%29.svg.png</thumbnail>
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
@@ -349,6 +371,49 @@
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
 <page>https://adictosalatele.com/TV/espana/axn/</page>
+</regex>
+<item>
+<title> [COLOR blue]AMC [/COLOR]</title>
+<thumbnail>https://logodownload.org/wp-content/uploads/2020/01/amc-logo-5.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/amc/</page>
+</regex>
+</item>
+<item>
+<title> [COLOR orange]Atresseries [/COLOR]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1280px-Atreseries_2020_logo.svg.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/atreseries/</page>
 </regex>
 </item>
 <item>
@@ -374,8 +439,13 @@
 </regex>
 </item>
 <item>
+<<<<<<< HEAD
 <title> [COLOR blue]CANAL SUR[/COLOR]</title>
 <thumbnail>https://pbs.twimg.com/profile_images/1277573019595165701/mrd0mcna_400x400.png4</thumbnail>
+=======
+<title> [COLOR blue]Discovery Channel[/COLOR]</title>
+<thumbnail>https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos_bw.png</thumbnail>
+>>>>>>> e97879ee6d39214476d7d451ade5d5533d553676
 <link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
 <regex>
 <name>geturl</name>
@@ -386,12 +456,72 @@
 <name>getunpacked</name>
 <expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
 <page>$doregex[pagina]</page>
+<<<<<<< HEAD
 <referer>https://www.youtube.com</referer>
+=======
+<referer>https://adictosalatele.com</referer>
+>>>>>>> e97879ee6d39214476d7d451ade5d5533d553676
 <connection>keep-alive</connection>
 </regex>
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
+<<<<<<< HEAD
 <page>https://www.youtube.com/embed/iw1Lg0jo2vE/</page>
 </regex>
 </item>
+=======
+<page>https://adictosalatele.com/TV/espana/discovery-channel/</page>
+</regex>
+</item>
+<item>
+<title> [COLOR blue]NAT GEO WILD[/COLOR]</title>
+<thumbnail>https://lh3.googleusercontent.com/proxy/XL0XWbX6oxXNapgFwtNUtWDapaA-J2EE-Ry6Snjr7PQnHUbZvWXX-y5EE88rHQbJwJkZol0EnjaZ4pNTyJ9v_nPpyZMfO9r7AcFpG-D6F2ib_72QSjE</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/national-geographic/</page>
+</regex>
+</item>
+<item>
+<title> [COLOR blue]TOROS[/COLOR]</title>
+<thumbnail>https://www.mundoplus.tv/img/c633a68260db657cc90a5aed875d93a5</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/espana/toros/</page>
+</regex>
+</item>
+<item>
+<title>CANAL SUR</title>
+<thumbnail>https://pbs.twimg.com/profile_images/1277573019595165701/mrd0mcna_400x400.png</thumbnail>
+<link>plugin://plugin.video.youtube/play/?video_id=oKlG-bZaXsU&feature</link>
+<genre>Canciones de Toycantando</genre>
+</item>
+>>>>>>> e97879ee6d39214476d7d451ade5d5533d553676
