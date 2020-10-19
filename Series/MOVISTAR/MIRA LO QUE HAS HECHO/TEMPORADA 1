@@ -9,12 +9,14 @@
         <fanart>https://www.nairaland.com/attachments/6798072_miraloquehashecho2018tvshow_jpeg6e8327b6451010087ef28514677b227b</fanart>
 </item>
 <item>
-<title>2 - El ocaso de Occidente</title>
-<urlsolve>https://drive.google.com/file/d/1NrIVjGHxvgRVRtA6PZvpHQvVlY8_v1d0/view</urlsolve>
-<info></info>
-<date>2018</date>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzJmYzAxZWMtNWJmZS00M2ZmLWFmMzMtYTA0MjE0NTczOTBkXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
-<fanart>https://www.nairaland.com/attachments/6798072_miraloquehashecho2018tvshow_jpeg6e8327b6451010087ef28514677b227b</fanart>
+        <title>2 - El ocaso de Occidente</title>    
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NrIVjGHxvgRVRtA6PZvpHQvVlY8_v1d0/view</link>
+        <thumbnail>https://m.media-amazon.com/images/M/MV5BYzJmYzAxZWMtNWJmZS00M2ZmLWFmMzMtYTA0MjE0NTczOTBkXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
+        <genre>comedia</genre>
+        <info></info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - -->
+        <fanart>https://www.nairaland.com/attachments/6798072_miraloquehashecho2018tvshow_jpeg6e8327b6451010087ef28514677b227b</fanart>
 </item>
 <item>
 <title>3 - Guardipapis</title>
