@@ -167,13 +167,24 @@
 <fanart>https://i.ytimg.com/vi/ohBLtn5FI0E/maxresdefault.jpg</fanart>
 </item>
 <item>
-<title>Downton abbey 4K UHD</title>
-<urlsolve>https://drive.google.com/file/d/1Crs-EbBRxevbOCva6PO7JZJYJAb7LRp0/view</urlsolve>
+<title>Downton abbey UHD 4K</title>
+<link>https://drive.google.com/file/d/1Crs-EbBRxevbOCva6PO7JZJYJAb7LRp0/view</link>
 <info>(aquí información del capitulo)</info>
 <date>2008</date>
 <thumbnail>https://www.avforums.com/attachments/da4k_temp-jpg.1189246/?temp_hash=4e98be0b228d37b44a8f793001cd504c</thumbnail>
 <fanart>https://i.blogs.es/afb2bf/downton-abbey-pelicula-opinion-2019-espinof/450_1000.jpg</fanart>
 </item>
+<item>
+        <title>Downton Abbey Multicalidad</title>    
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=ttps://drive.google.com/file/d/1Crs-EbBRxevbOCva6PO7JZJYJAb7LRp0/view</link>
+        <thumbnail>aqui el poster</thumbnail>
+        <genre>Anime</genre>
+        <info>sipnosis aqui</info>
+        <date>año aqui</date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - -->
+        <fanart>aqui fondo</fanart>
+</item>
+
 <item>
 <title>La Familia Adams 4K</title>
 <urlsolve>https://drive.google.com/file/d/1wJCJc51eItMuupsuchURerfjWsp1Kwep/view?usp=sharing</urlsolve>
