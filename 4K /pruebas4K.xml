@@ -177,12 +177,12 @@
 <item>
         <title>Downton Abbey Multicalidad</title>    
     <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=ttps://drive.google.com/file/d/1Crs-EbBRxevbOCva6PO7JZJYJAb7LRp0/view</link>
-        <thumbnail>aqui el poster</thumbnail>
-        <genre>Anime</genre>
-        <info>sipnosis aqui</info>
-        <date>año aqui</date>  <!-- format - dd.mm.yyyy -->
+        <thumbnail></thumbnail>
+        <genre></genre>
+        <info></info>
+        <date>2019</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - -->
-        <fanart>aqui fondo</fanart>
+        <fanart></fanart>
 </item>
 
 <item>
