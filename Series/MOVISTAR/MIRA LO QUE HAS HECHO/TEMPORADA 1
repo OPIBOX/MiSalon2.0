@@ -20,7 +20,7 @@
 </item>
 <item>
         <title>3 - Guardipapis</title>    
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w7M2dJHEJqerVevwzAOW0Kk8OGV5ybYm/view?usp=sharing</link>
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1w7M2dJHEJqerVevwzAOW0Kk8OGV5ybYm/view</link>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYzJmYzAxZWMtNWJmZS00M2ZmLWFmMzMtYTA0MjE0NTczOTBkXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
         <genre>comedia</genre>
         <info></info>
@@ -30,7 +30,7 @@
 </item>
 <item>
         <title>4- Hotfire</title>    
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JcM28Qy_APTgQmcqBaRcBsqDt6noRsdx/view?usp=sharing</link>
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JcM28Qy_APTgQmcqBaRcBsqDt6noRsdx/view</link>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYzJmYzAxZWMtNWJmZS00M2ZmLWFmMzMtYTA0MjE0NTczOTBkXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
         <genre>comedia</genre>
         <info></info>
@@ -40,7 +40,7 @@
 </item>
 <item>
         <title>5 - Seguimos vivos</title>    
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_Sji6ZG_Xw1Gy76hGJEn0ceTgsgY_mLl/view?usp=sharing</link>
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1_Sji6ZG_Xw1Gy76hGJEn0ceTgsgY_mLl/view</link>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYzJmYzAxZWMtNWJmZS00M2ZmLWFmMzMtYTA0MjE0NTczOTBkXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
         <genre>comedia</genre>
         <info></info>
@@ -50,7 +50,7 @@
 </item>
 <item>
         <title>6 - Papá</title>    
-    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JC5DXatWndlbJMMrDFXSznHJ4Hc21Ql2/view?usp=sharing</link>
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JC5DXatWndlbJMMrDFXSznHJ4Hc21Ql2/view</link>
         <thumbnail>https://m.media-amazon.com/images/M/MV5BYzJmYzAxZWMtNWJmZS00M2ZmLWFmMzMtYTA0MjE0NTczOTBkXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY1000_CR0,0,706,1000_AL_.jpg</thumbnail>
         <genre>comedia</genre>
         <info></info>
