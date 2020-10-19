@@ -1,4 +1,14 @@
 <item>
+        <title>Amor Garantizado Multicalidad</title>    
+    <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xag6T8LTLUDdsntQQ7agWU41SgslvGZu/view</link>
+        <thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+        <genre>comedia</genre>
+        <info></info>
+        <date></date>  <!-- format - dd.mm.yyyy -->
+        <epg></epg>  <!-- See daschacka's post - -->
+        <fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
 <title>Amor garantizado 4K</title>
 <urlsolve>https://drive.google.com/file/d/1xag6T8LTLUDdsntQQ7agWU41SgslvGZu/view</urlsolve>
 <info>Una abogada muy atareada (Rachael Leigh Cook) ayuda a un seductor cliente (Damon Wayans Jr.) a demandar a un sitio de citas que les garantiza el amor a sus usuarios.</info>
