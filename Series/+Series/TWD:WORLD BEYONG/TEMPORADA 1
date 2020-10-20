@@ -1,16 +1,81 @@
 <item>
-<title>1-Valiente</title>
-<urlsolve>https://drive.google.com/file/d/1wFDSxcb_7_zvpFu-5bEYayV6KpcnLT9t/view</urlsolve>
-<info>Iris y Hope forman parte de los habitantes de Omaha Campus. Iris está contenta sabiendo que su padre, Leo Bennett, está ayudando a la CRM con la cura del virus. Por su parte, Hope desconfía de la organización.Elizabeth Kublek, uno de los altos mandos de CRM, no ha revelado la ubicación de Bennett. Tampoco la conoce Felix, jefe de seguridad del campus. Las chicas reciben un mensaje secreto de su padre, que asegura estar en peligro. Es entonces cuando las jóvenes emprenden su viaje para rescatarlo.</info>
-<date>2020</date>
-<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
-<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
-</item>
-<item>
-<title>2-El resplandor de la gloria</title>
-<urlsolve>https://drive.google.com/file/d/1oDr2ymSh596QgQbFkmXszOqkh1XvdGAj/view</urlsolve>
-<info>Hope e Iris no están de acuerdo con la misión. Felix y Huck siguen al grupo, mientras Felix enfrenta su pasado.</info>
-<date>2020</date>
-<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
-<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
-</item>
+	<title>1-Valiente</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wFDSxcb_7_zvpFu-5bEYayV6KpcnLT9t/view</link>
+	<info>Iris y Hope forman parte de los habitantes de Omaha Campus. Iris está contenta sabiendo que su padre, Leo Bennett, está ayudando a la CRM con la cura del virus. Por su parte, Hope desconfía de la organización.Elizabeth Kublek, uno de los altos mandos de CRM, no ha revelado la ubicación de Bennett. Tampoco la conoce Felix, jefe de seguridad del campus. Las chicas reciben un mensaje secreto de su padre, que asegura estar en peligro. Es entonces cuando las jóvenes emprenden su viaje para rescatarlo.</info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+	<item>
+	<title>2-El resplandor de la gloria</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1oDr2ymSh596QgQbFkmXszOqkh1XvdGAj/view</link>
+	<info>Hope e Iris no están de acuerdo con la misión. Felix y Huck siguen al grupo, mientras Felix enfrenta su pasado.</info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>3-El Tigre y el cordero</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R1YB6n6ISkSvkehvOfu7mKOWvuD9Rg35/view</link>
+	<info>Abrumados por su pasado, los miembros del grupo adoptan estrategias opuestas para hacer frente a un obstáculo gigantesco. Los cuatro jóvenes reciben presiones para volver a casa.</info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>4-El extremo equivocado de un telescopio</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+	<info></info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>5-Loco al otro lado del agua</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+	<info></info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>6-Títeres de sombra</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+	<info></info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>7-Verdad o reto</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+	<info></info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>8-El cielo es un cementerio</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+	<info></info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>9-El corte más profundo</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+	<info></info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+  <item>
+	<title>10-En esta vida</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=</link>
+	<info></info>
+	<date>2020</date>
+	<thumbnail>https://images.amcnetworks.com/amc.com/wp-content/uploads/2020/03/the-walking-dead-world-beyond-key-art-full.jpg</thumbnail>
+	<fanart>https://www.indiewire.com/wp-content/uploads/2020/03/twd.png</fanart>
+	</item>
+ 
