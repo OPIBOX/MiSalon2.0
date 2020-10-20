@@ -1,48 +1,48 @@
 <item>
-<title>1-Piloto</title>
-<urlsolve>https://drive.google.com/file/d/12W2JrH6PdaeDtqu3mQIbDZXrYgwqByt8/view</urlsolve>
-<info>Una familia desestructurada se ve forzada a permanecer unida cuando descubren que un virus es en realidad el comienzo del apocalipsis de los no muertos.</info>
-<date>2015</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
-<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
-</item>
-<item>
-<title>2-Tan cerca, pero tan lejos</title>
-<urlsolve>https://drive.google.com/file/d/13pXAOlMWVJogznE1VJDGbmM-UDEKdcJq/view</urlsolve>
-<info>Mientras Madison se esfuerza por controlar el síndrome de abstinencia de Nick, Travis se aventura a salir para encontrar a su hijo.</info>
-<date>2015</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
-<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
-</item>
-<item>
-<title>3-El perro</title>
-<urlsolve>https://drive.google.com/file/d/1hvR8a8D3hwPhi3R0xr7m3x3TVlcBikpb/view</urlsolve>
-<info>Tras huir de los violentos disturbios, Travis, Liza y Chris buscan refugio con la familia Salazar. Mientras tanto, Madison defiende su casa.</info>
-<date>2015</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
-<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
-</item>
-<item>
-<title>4-No desaparece</title>
-<urlsolve>https://drive.google.com/file/d/1ipUSF_OYq2BXmtK5pLBK83cCSF7GjqRC/view</urlsolve>
-<info>La Guardia Nacional ocupa el barrio de Travis y Madison y la familia tiene que adaptarse a esa nueva situación.</info>
-<date>2015</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
-<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
-</item>
-<item>
-<title>5-Cobalto</title>
-<urlsolve>https://drive.google.com/file/d/1rJJ0fYpky3gP2PLfD35dUKo7hmRip9zz/view</urlsolve>
-<info>Se descubre el plan de la Guardia Nacional para el barrio y sus residentes lo que obliga a Travis y a Madison a tomar una difícil decisión.</info>
-<date>2015</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
-<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
-</item>
-<item>
-<title>6-El buen hombre</title>
-<urlsolve>https://drive.google.com/file/d/1azJSsWwgOAnSbkJT9D9Cjw2sk0AHI2se/view</urlsolve>
-<info>Mientras los disturbios siguen creciendo y los muertos aumentan, Travis y Madison tienen que encontrar nuevas formas de proteger a sus familias.</info>
-<date>2015</date>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
-<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
-</item>
+	<title>1-Piloto</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12W2JrH6PdaeDtqu3mQIbDZXrYgwqByt8/view</link>
+	<info>Una familia desestructurada se ve forzada a permanecer unida cuando descubren que un virus es en realidad el comienzo del apocalipsis de los no muertos.</info>
+	<date>2015</date>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
+	<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
+	</item>
+	<item>
+	<title>2-Tan cerca, pero tan lejos</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/13pXAOlMWVJogznE1VJDGbmM-UDEKdcJq/view</link>
+	<info>Mientras Madison se esfuerza por controlar el síndrome de abstinencia de Nick, Travis se aventura a salir para encontrar a su hijo.</info>
+	<date>2015</date>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
+	<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
+	</item>
+	<item>
+	<title>3-El perro</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hvR8a8D3hwPhi3R0xr7m3x3TVlcBikpb/view</link>
+	<info>Tras huir de los violentos disturbios, Travis, Liza y Chris buscan refugio con la familia Salazar. Mientras tanto, Madison defiende su casa.</info>
+	<date>2015</date>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
+	<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
+	</item>
+	<item>
+	<title>4-No desaparece</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ipUSF_OYq2BXmtK5pLBK83cCSF7GjqRC/view</link>
+	<info>La Guardia Nacional ocupa el barrio de Travis y Madison y la familia tiene que adaptarse a esa nueva situación.</info>
+	<date>2015</date>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
+	<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
+	</item>
+	<item>
+	<title>5-Cobalto</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rJJ0fYpky3gP2PLfD35dUKo7hmRip9zz/view</link>
+	<info>Se descubre el plan de la Guardia Nacional para el barrio y sus residentes lo que obliga a Travis y a Madison a tomar una difícil decisión.</info>
+	<date>2015</date>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
+	<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
+	</item>
+	<item>
+	<title>6-El buen hombre</title>
+	<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1azJSsWwgOAnSbkJT9D9Cjw2sk0AHI2se/view</link>
+	<info>Mientras los disturbios siguen creciendo y los muertos aumentan, Travis y Madison tienen que encontrar nuevas formas de proteger a sus familias.</info>
+	<date>2015</date>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/81mg4BKM2xL._SY445_.jpg</thumbnail>
+	<fanart>https://www.awesomepostersonline.com/uploads/2018-11-05/eb7b43ea/f50f6cc5e36.jpg</fanart>
+	</item>
