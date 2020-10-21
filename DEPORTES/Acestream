@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 la liga
-plugin://program.plexus/?mode=1&url=acestream://0fd012251e4f5dad37c0c4c558a057fb660530c1&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 la liga
-plugin://program.plexus/?mode=1&url=acestream://496e755d6c50ba53b814d8a5c6af93d899e794a4&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 la liga
-plugin://program.plexus/?mode=1&url=acestream://b211783229c7b5fcc9363fda661550696a8c77e2&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 chanpions
+plugin://program.plexus/?mode=1&url=acestream://d0cd28d8d8cc39236beb63b2ac4cdc08e0dabdc9&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 champions
+plugin://program.plexus/?mode=1&url=acestream://3925c5d8dd2f168ababd42a58bb26d30a5de4897&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 chanpions
+plugin://program.plexus/?mode=1&url=acestream://df9ec0eb54c23aaf3037d23a1a305d3d6e7a0d8f&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 la premier
 plugin://program.plexus/?mode=1&url=acestream://22ace9cbdd1a5b42da86888f3f452541755b3968&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
