@@ -89,7 +89,7 @@
 
 
 <item>
-<title>[COLOR darkorange][B]Agenda DaQueen[/COLOR][/B]</title>
+<title>[COLOR purple][B]Dailysport[/COLOR][/B]</title>
  <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/pR8kpOz.jpg</thumbnail>
 <regex>
@@ -115,6 +115,41 @@
 <page>https://dailysport.pw/[makelist.param3]</page>
 </regex>
  </item>
+
+
+<item>
+  <title>[COLOR purple]Agenda[/COLOR]</title>
+  <link>$doregex[makelist]</link>
+  <thumbnail>https://i.imgur.com/qM27EM9.jpg</thumbnail>
+    <regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+        <title>[COLOR gold][makelist.param1] [COLOR darkorange][makelist.param2] [COLOR blue] [makelist.param4][/COLOR]</title>
+        <link>$doregex[url]|User-Agent=iPad</link>
+        <thumbnail></thumbnail>
+      ]]></listrepeat>
+      <expres>>(\d\d:\d\d)\s(.*?)<.*?|a\shref="(.+?)".*?#ff0000;">(.+?)<</expres>
+      <page>https://daddylive.live/index.php</page>
+      <referer>https://daddylive.live/</referer>
+    </regex>
+    <regex>
+      <name>url</name>
+      <expres>source:\s*"([^"]+)</expres>
+      <page>$doregex[unpack]</page>
+    </regex>
+    <regex>
+      <name>unpack</name>
+      <expres>$pyFunction:get_unpacked(page_data,'(?s)(eval\(function\(p,a,c,k,e,d.*?)&lt;/.+')</expres>
+      <page>$doregex[url2]</page>
+      <referer>https://daddylive.live/</referer>
+    </regex>
+    <regex>
+      <name>url2</name>
+      <expres>iframe\s*src="([^"]+)</expres>
+      <page>[makelist.param3]</page>
+      <referer>https://daddylive.live/</referer>
+    </regex>
+  </item>
 
 
 
