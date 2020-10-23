@@ -124,7 +124,7 @@
     <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
-        <title>[COLOR red][makelist.param1] [COLOR darkorange][makelist.param2] [COLOR green] [makelist.param4][/COLOR]</title>
+        <title>[COLOR red][makelist.param1] [COLOR blue][makelist.param2] [COLOR white] [makelist.param4][/COLOR]</title>
         <link>$doregex[url]|User-Agent=iPad</link>
         <thumbnail></thumbnail>
       ]]></listrepeat>
