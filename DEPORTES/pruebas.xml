@@ -91,7 +91,7 @@
 <item>
 <title>[COLOR purple][B]Dailysport[/COLOR][/B]</title>
  <link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/pR8kpOz.jpg</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -120,7 +120,7 @@
 <item>
   <title>[COLOR purple]Agenda[/COLOR]</title>
   <link>$doregex[makelist]</link>
-  <thumbnail>https://i.imgur.com/qM27EM9.jpg</thumbnail>
+  <thumbnail>https://e7.pngegg.com/pngimages/235/824/png-clipart-drawing-others-sport-logo.png</thumbnail>
     <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
