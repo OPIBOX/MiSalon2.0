@@ -1,6 +1,6 @@
 <item>
           <title>Fernando Alonso</title>    
-      <resolverurl>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rhyPiQHXXUjfTV3tCExbUtQeZmfgO9y7/view</resolverurl>
+      <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rhyPiQHXXUjfTV3tCExbUtQeZmfgO9y7/view</link>
           <thumbnail>https://periodismodelmotor.com/wp-content/uploads/2020/10/como-ver-documental-fernando-alonso-gratis-en-amazon-prime-video-1280x720.jpg</thumbnail>
           <genre>Documental</genre>
           <info>
