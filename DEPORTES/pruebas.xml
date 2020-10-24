@@ -166,7 +166,7 @@
 <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|td>.*?href="(.*?)">(.*?)<]]></expres>
-<page>https://area51deportiva.com/</page>
+<page>http://433live.tv/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -176,7 +176,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>window.atob.*?"(.*?)"</expres>
-<page>https://area51deportiva.com/[makelist.param3]</page>
+<page>http://433live.tv/[makelist.param3]</page>
 </regex>
  </item>
 
