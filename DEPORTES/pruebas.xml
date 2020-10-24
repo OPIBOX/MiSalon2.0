@@ -165,7 +165,7 @@
       ]]></listrepeat>
       <expres>>(\d\d:\d\d)\s(.*?)<.*?|a\shref="(.+?)".*?#ff0000;">(.+?)<</expres>
       <page>https://area51deportiva.com/index.php</page>
-      <referer>https://area51deportiva.com/</referer>
+      <referer>https://area51deportiva.com/tg.php?id=live5w</referer>
     </regex>
     <regex>
       <name>url</name>
@@ -176,13 +176,13 @@
       <name>unpack</name>
       <expres>$pyFunction:get_unpacked(page_data,'(?s)(eval\(function\(p,a,c,k,e,d.*?)&lt;/.+')</expres>
       <page>$doregex[url2]</page>
-      <referer>https://area51deportiva.com/</referer>
+      <referer>https://area51deportiva.com/tg.php?id=live8w</referer>
     </regex>
     <regex>
       <name>url2</name>
       <expres>iframe\s*src="([^"]+)</expres>
       <page>[makelist.param3]</page>
-      <referer>https://area51deportiva.com/</referer>
+      <referer>https://area51deportiva.com/tg.php?id=live17w</referer>
     </regex>
   </item>
 
