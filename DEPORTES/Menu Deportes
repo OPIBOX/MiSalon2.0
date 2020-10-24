@@ -22,6 +22,8 @@
 <thumbnail>https://lh3.googleusercontent.com/LGHIZxwN8QnPumkVCDMXPWbXvmy_26M-M3AjcpMqGdywhlAMtkDtU1SS0Sd1J917YgI</thumbnail>
 <fanart>https://lh3.googleusercontent.com/LGHIZxwN8QnPumkVCDMXPWbXvmy_26M-M3AjcpMqGdywhlAMtkDtU1SS0Sd1J917YgI</fanart>
 </item>
+
+
 <item>
 <title>[COLOR blue][B]Dailysport[/COLOR][/B]</title>
  <link>$doregex[makelist]</link>
