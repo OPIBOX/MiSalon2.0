@@ -18,8 +18,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
   u4 = u3.decode('base64').replace('espare.tk', '23.237.173.109')
   return u4
 ]]></expres>
-<page>http://adictosalatele.com/TV/espana/movistar-estrenos/</page>
-<referer>http://adictosalatele.com</referer>
+<page>http://adictosalatele.com/</page>
+<referer>http://adictosalatele.com/TV/espana/movistar-estrenos/</referer>
 </regex>
 </item>
 
