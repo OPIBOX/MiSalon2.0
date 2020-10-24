@@ -19,7 +19,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   return u4
 ]]></expres>
 <page>http://adictosalatele.com/TV/espana/movistar-estrenos/</page>
-<referer>http://adictosalatele.com/TV/espana/movistar-estrenos/</referer>
+<referer>http://adictosalatele.com</referer>
 </regex>
 </item>
 
