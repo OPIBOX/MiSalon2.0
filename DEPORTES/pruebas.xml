@@ -164,7 +164,7 @@
         <thumbnail></thumbnail>
       ]]></listrepeat>
       <expres>>(\d\d:\d\d)\s(.*?)<.*?|a\shref="(.+?)".*?#ff0000;">(.+?)<</expres>
-      <page>https://daddylive.live/index.php</page>
+      <page>https://area51deportiva.com//index.php</page>
       <referer>https://area51deportiva.com/</referer>
     </regex>
     <regex>
