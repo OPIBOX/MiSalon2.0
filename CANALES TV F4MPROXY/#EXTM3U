@@ -282,7 +282,7 @@
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/espana/movistar-series/</page>
+<page>https://adictosalatele.com/TV/espana/movistar-series</page>
 </regex>
 </item>
 <item>
