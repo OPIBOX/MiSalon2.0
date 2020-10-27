@@ -20,16 +20,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>      
 </item>
 <item>
-<title>1 -Piloto</title>
-<link>https://mixdrop.to/e/7rkgw3q1sde7d0l</link>
-<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
-<genre>comedia</genre>
-<info></info>
-<date></date>  <!-- format - dd.mm.yyyy -->
-<epg></epg>  <!-- See daschacka's post - -->
-<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
-</item>
-<item>
 <title>2 - Cohetes, comunistas y bibliotecas</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/u/2/open?id=1UR011085qrM0LkCmPg0BjfWC852ma-qP</link>
 <info>Ante la preocupación de su madre, Sheldon decide dedicar su tiempo a intentar hacer un nuevo amigo utilizando libros de autoayuda.</info>
