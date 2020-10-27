@@ -20,12 +20,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>      
 </item>
 <item>
-<title>2 - Cohetes, comunistas y bibliotecas</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/u/2/open?id=1UR011085qrM0LkCmPg0BjfWC852ma-qP</link>
-<info>Ante la preocupación de su madre, Sheldon decide dedicar su tiempo a intentar hacer un nuevo amigo utilizando libros de autoayuda.</info>
-<date></date>
+<title>1 -El joven Sheldon 1x01-Piloto</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info></info>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart></fanart>      
 </item>
 <item>
 <title>3 - Póquer, fe y huevos</title>
