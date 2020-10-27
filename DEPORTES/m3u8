@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 borusia-madrid
 https://akamai2-me.cdn.booyah.live/hls/113138/28757085.m3u8
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 F1
-https://storage.googleapis.com/dailyseg1/10/10.m3u8
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 la liga
-https://storage.googleapis.com/dailyseg1/1/1.m3u8
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 multi
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/24d8aef9f7fe4d4c9bd8bd3c9f89c817/chunklist.m3u8
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 salzburgo-atleti
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/f4ee390237904457b66571dd25a08c11/chunklist.m3u8
 #EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 la liga
 http://pichilemu.lookplay.ml/look/movistar_laliga/index.m3u8?Manujaz
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
