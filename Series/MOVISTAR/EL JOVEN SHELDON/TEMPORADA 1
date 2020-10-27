@@ -18,7 +18,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info></info>
 <thumbnail></thumbnail>
 <fanart></fanart>      
-<item>
+</item>
 <item>
 <title>1 -Piloto</title>
 <link>https://mixdrop.to/e/7rkgw3q1sde7d0l</link>
