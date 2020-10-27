@@ -1,5 +1,5 @@
 <item>
-<title>1 -Piloto</title>
+<title>1 -PRUEBA</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
