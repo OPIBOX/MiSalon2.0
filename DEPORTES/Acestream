@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 borusia-madrid
-plugin://program.plexus/?mode=1&url=acestream://f79def44103eafff22ecc893abf32cfde7eb08d6&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 salzburgo-atleti
-plugin://program.plexus/?mode=1&url=acestream://24cecb84639f9e09c3ac0383ad3dbb97fa6f71e2&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 multi
-plugin://program.plexus/?mode=1&url=acestream://bbddf216f85903c3d09919231e78d7e97c126452&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 juve-barsa
+plugin://program.plexus/?mode=1&url=acestream://1ab2720f4830a198c9894c93e0329d38add703c2&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 juve-barsa
+plugin://program.plexus/?mode=1&url=acestream://0a375df775ef669bca7f6f88db237cbdeb7ae2a6&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 sevilla-rennes
+plugin://program.plexus/?mode=1&url=acestream://144641b57a90844b1f11d8f8bfc4d5d5ef09790b&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
 plugin://program.plexus/?mode=1&url=acestream://f79def44103eafff22ecc893abf32cfde7eb08d6&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
