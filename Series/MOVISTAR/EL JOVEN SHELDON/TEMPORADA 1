@@ -15,9 +15,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<info></info>
-<thumbnail></thumbnail>
-<fanart></fanart>      
+<info>En una tierra donde el fútbol y la iglesia mandan, tener una mente brillante para las matemáticas avanzadas sirve de poco. Mientras el superdotado aunque vulnerable Sheldon intenta lidiar con el mundo, su familia trata de lidiar con él.</info>
+<thumbnail>https://www.movistarplus.es/recorte/n/caratula4/F3749211</thumbnail>
+<fanart>https://www.mundoplus.tv/img/4c97932189b2658b135e8b952927ce68</fanart>      
 </item>
 <item>
 <title>1 -El joven Sheldon 1x02-Cohetes, comunistas y el sistema decimal Dewey</title>
@@ -28,6 +28,27 @@ def GetLSProData(page_data,Cookie_Jar,m):
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
    url = 'https://mixdrop.to/e/l67gjwr1fvpdkn'
+   try:
+       u = resolveurl.resolve(url)
+   except:
+       u = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
+   return u
+]]></expres>
+<page></page>
+</regex>
+<info></info>
+<thumbnail></thumbnail>
+<fanart></fanart>      
+</item>
+<item>
+<title>1 -El joven Sheldon 1x03-Piloto</title>
+<link>$doregex[id3]</link>
+<regex>
+<name>id3</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+   import resolveurl
+   url = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
    try:
        u = resolveurl.resolve(url)
    except:
