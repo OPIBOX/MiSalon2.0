@@ -31,7 +31,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
    try:
        u = resolveurl.resolve(url)
    except:
-       u = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
+       u = 'https://mixdrop.to/e/l67gjwr1fvpdkn'
    return u
 ]]></expres>
 <page></page>
