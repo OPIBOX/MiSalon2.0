@@ -1,5 +1,5 @@
 <item>
-<title>1 -El joven Sheldon 1x01-Piloto</title>
+<title>El joven Sheldon 1x01-Piloto</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -20,7 +20,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://www.mundoplus.tv/img/4c97932189b2658b135e8b952927ce68</fanart>      
 </item>
 <item>
-<title>1 -El joven Sheldon 1x02-Cohetes, comunistas y el sistema decimal Dewey</title>
+<title>El joven Sheldon 1x02-Cohetes, comunistas y el sistema decimal Dewey</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
@@ -36,12 +36,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 ]]></expres>
 <page></page>
 </regex>
-<info></info>
-<thumbnail></thumbnail>
+<info>Con el propósito de apaciguar a su preocupada madre, Sheldon emplea un libro de autoayuda para hacer un amigo en el colegio.</info>
+<thumbnail>https://estatico.emisiondof6.com/recorte/n/dispficha/F3419758</thumbnail>
 <fanart></fanart>      
 </item>
 <item>
-<title>1 -El joven Sheldon 1x03-Piloto</title>
+<title>El joven Sheldon 1x03-Piloto</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
