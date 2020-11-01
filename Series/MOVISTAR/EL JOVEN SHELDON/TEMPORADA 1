@@ -20,14 +20,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>      
 </item>
 <item>
-<title>1 -El joven Sheldon 1x01-Piloto</title>
+<title>1 -El joven Sheldon 1x02-Cohetes, comunistas y el sistema decimal Dewey</title>
 <link>$doregex[id3]</link>
 <regex>
 <name>id3</name>
 <expres><![CDATA[#$pyFunction
 def GetLSProData(page_data,Cookie_Jar,m):
    import resolveurl
-   url = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
+   url = 'https://mixdrop.to/e/l67gjwr1fvpdkn'
    try:
        u = resolveurl.resolve(url)
    except:
