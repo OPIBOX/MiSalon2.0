@@ -62,27 +62,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>      
 </item>
 <item>
-<title>El joven Sheldon 1x03-Piloto</title>
-<link>$doregex[id3]</link>
-<regex>
-<name>id3</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import resolveurl
-   url = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
-   try:
-       u = resolveurl.resolve(url)
-   except:
-       u = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
-   return u
-]]></expres>
-<page></page>
-</regex>
-<info></info>
-<thumbnail>https://estatico.emisiondof6.com/recorte/n/dispficha/F3417267</thumbnail>
-<fanart></fanart>      
-</item>
-<item>
 <title>3 - Póquer, fe y huevos</title>
 <link>https://s-delivery9.mxdcontent.net/v/e3d59c19a8e5f37ebeff62945aa3c645.mp4?s=Rw4Tz3-pE3ugOXg7rpsWlg&e=1603849666&_t=1603832722</link>
 <info>El padre de Sheldon acaba en Urgencias, por lo que los niños quedan a cargo de su abuela. Sin embargo, los niños deciden acudir al hospital por su cuenta.</info>
