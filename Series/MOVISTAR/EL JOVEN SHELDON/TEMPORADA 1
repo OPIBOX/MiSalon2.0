@@ -1,63 +1,88 @@
 <item>
-<title>El joven Sheldon 1x01-Piloto</title>
-<link>$doregex[id3]</link>
-<regex>
-<name>id3</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import resolveurl
-   url = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
-   try:
-       u = resolveurl.resolve(url)
-   except:
-       u = 'https://mixdrop.to/e/7rkgw3q1sde7d0l'
-   return u
-]]></expres>
-<page></page>
-</regex>
-<info>En una tierra donde el fútbol y la iglesia mandan, tener una mente brillante para las matemáticas avanzadas sirve de poco. Mientras el superdotado aunque vulnerable Sheldon intenta lidiar con el mundo, su familia trata de lidiar con él.</info>
-<thumbnail>https://www.movistarplus.es/recorte/n/caratula4/F3749211</thumbnail>
-<fanart>https://www.mundoplus.tv/img/4c97932189b2658b135e8b952927ce68</fanart>      
+<title>1 - Piloto</title>
+<urlsolve>https://mixdrop.to/e/7rkgw3q1sde7d0l</urlsolve>
+<info>Un joven Sheldon Cooper se enfrenta a una nueva etapa de su vida en la que irá descubriendo que tener una mente brillante no es precisamente un motivo para recibir halagos y tener facilidades. Al menos, en el estado de Texas</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
 </item>
 <item>
-<title>El joven Sheldon 1x02-Cohetes, comunistas y el sistema decimal Dewey</title>
-<link>$doregex[id3]</link>
-<regex>
-<name>id3</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import resolveurl
-   url = 'https://mixdrop.to/e/l67gjwr1fvpdkn'
-   try:
-       u = resolveurl.resolve(url)
-   except:
-       u = 'https://mixdrop.to/e/l67gjwr1fvpdkn'
-   return u
-]]></expres>
-<page></page>
-</regex>
-<info>Con el propósito de apaciguar a su preocupada madre, Sheldon emplea un libro de autoayuda para hacer un amigo en el colegio.</info>
-<thumbnail>https://estatico.emisiondof6.com/recorte/n/dispficha/F3419758</thumbnail>
-<fanart></fanart>      
+<title>2 - Cohetes, comunistas y bibliotecas</title>
+<urlsolve>https://mixdrop.to/e/l67gjwr1fvpdkn</urlsolve>
+<info>Ante la preocupación de su madre, Sheldon decide dedicar su tiempo a intentar hacer un nuevo amigo utilizando libros de autoayuda.</info>
+<date></date>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 <item>
-<title>El joven Sheldon 1x03-Poker, fe y huevos</title>
-<link>$doregex[id3]</link>
-<regex>
-<name>id3</name>
-<expres><![CDATA[#$pyFunction
-def GetLSProData(page_data,Cookie_Jar,m):
-   import resolveurl
-   url = 'https://mixdrop.to/e/vnkv9q9otq8pm1k'
-   try:
-       u = resolveurl.resolve(url)
-   except:
-       u = 'https://mixdrop.to/e/vnkv9q9otq8pm1k'
-   return u
-]]></expres>
-<page></page>
-</regex>
-<info>George Cooper es llevado a la sala de emergencias y Meemaw se encarga de cuidar a los niños. Estos vivirán una auténtica aventura cuando decidan ir al hospital por su cuenta.</info>
-<thumbnail>https://estatico.emisiondof6.com/recorte/n/dispficha/F3417267</thumbnail>
-<fanart></fanart>      
+<title>3 - Póquer, fe y huevos</title>
+<urlsolve>https://mixdrop.to/e/vnkv9q9otq8pm1k</urlsolve>
+<info>El padre de Sheldon acaba en Urgencias, por lo que los niños quedan a cargo de su abuela. Sin embargo, los niños deciden acudir al hospital por su cuenta.</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>4 - Un psicólogo, un cómic y una salchicha para desayunar</title>
+<urlsolve>https://mixdrop.to/e/j9d196kqfgp33p</urlsolve>
+<info>Después de atragantarse con una salchicha en el desayuno, Sheldon lucha contra su miedo a los alimentos sólidos y descubre los cómics por primera vez.</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>5 - Una calculadora solar, un juego de pelota y el pecho de una animadora</title>
+<urlsolve>https://mixdrop.to/e/l67z60neizlq36</urlsolve>
+<info>Sheldon lucha con una nueva popularidad después de utilizar la estadística para ayudar al equipo de fútbol. Georgie se siente marginado por la popularidad de su hermano pequeño.</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>6 - un parche, un módem y un Zantac</title>
+<urlsolve>https://mixdrop.to/e/84l04e08a3q9gr</urlsolve>
+<info>Cuando un representante de la NASA visita la escuela de Sheldon y descarta sus teorías, Sheldon decide demostrar que está equivocado.</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>7 - Ternera, vudú y Cannonball</title>
+<urlsolve>https://drive.google.com/file/d/15KrygPpfc2tYuNZBcdThtgRKdMeUmT-U/view</urlsolve>
+<info>Los niños intercambian ideas sobre cómo resolver una disputa familiar cuando Meemaw se niega a darle a George Sr. su receta de ternera.</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>8 - Cabo Cañaveral, el gato de Schrödinger y el pelo de Cyndi Lauper</title>
+<urlsolve>https://mixdrop.to/e/4ndx8xk4t6md40</urlsolve>
+<info>Mientras Mary, Memaw y Missy tienen noche de chicas en el salón, los tres hombres Cooper planean su viaje por carretera para ver el transbordador espacial, pero no les va tan bien como habían planeado.</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>9 - Spock, Kirk y una hernia testicular</title>
+<urlsolve>https://mixdrop.to/e/0v3l8lj6tg11r3</urlsolve>
+<info>Sheldon tiene que hacer de tutor de Georgie cuando las malas notas amenazan con impedir que juegue al fútbol. Al hacerlo, Sheldon aprende algunas habilidades de su hermano.</info>
+<date>2017</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>10 - Una pluma de águila, una judía verde y unos hippies</title>
+<urlsolve>https://mixdrop.to/e/rw6q3qwxun6gpx</urlsolve>
+<info>Cuando Sheldon se muda a Dallas para asistir a una escuela para niños superdotados, la familia se esfuerza por hacer frente a su ausencia.</info>
+<date>2018</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
+</item>
+<item>
+<title>11 - Demonios, catequesis y números primos</title>
+<urlsolve>https://drive.google.com/file/d/1sUH2jXAqmYELpfVMZiXcrSXv9fUIS1sL/view</urlsolve>
+<info>Sheldon es enviado a la escuela dominical cuando Mary lo atrapa jugando a Dragones y mazmorras con sus amigos.</info>
+<date>2018</date>
+<thumbnail>https://i0.wp.com/nienserionienserie.es/wp-content/uploads/2017/11/El_joven_Sheldon.jpg?w=300</thumbnail>
+<fanart>https://static.wixstatic.com/media/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.jpg/v1/fill/w_531,h_253,al_c,q_80,usm_0.66_1.00_0.01/705c45_5b2ef58897b84ea495f8ec7f73c22d03~mv2.webp</fanart>
 </item>
