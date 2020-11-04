@@ -7,10 +7,10 @@ plugin://program.plexus/?mode=1&url=acestream://d0a80bc94c031257d707ab2b51f5cfa4
 plugin://program.plexus/?mode=1&url=acestream://13d645dffba46cd5ae155cf5815a8605ac8475ae&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 barsa-dinamo
 plugin://program.plexus/?mode=1&url=acestream://027138d531b9610aef83e1346b7b8dfd89b72640&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
-plugin://program.plexus/?mode=1&url=acestream://b2c18fd2281c479b611bd3ee88a39e0e82955b78&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
-plugin://program.plexus/?mode=1&url=acestream://2a176970f167f559e53f29322c366c93fd74fc69&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 barsa-dinamo
+plugin://program.plexus/?mode=1&url=acestream://057bd458879df431767f5800d722dd6e39e102fc&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 barsa-dinamo
+plugin://program.plexus/?mode=1&url=acestream://ece9c062802ae8f90feb1a27dd94e9a712c92b17&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 7 sin evento
 plugin://program.plexus/?mode=1&url=acestream://92366444d68ed1851e85c1bd3c12ff30812f520e&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 8 sin evento
