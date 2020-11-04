@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 madrid-inter
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 instanbul-manu/barsa-dinamo
+plugin://program.plexus/?mode=1&url=acestream://4848b8179b601bd8540023c437943db305d6c0aa&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 instambul-manu/barsa-dinamo
 plugin://program.plexus/?mode=1&url=acestream://d0a80bc94c031257d707ab2b51f5cfa4bc13f027&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 madrid-inter
-plugin://program.plexus/?mode=1&url=acestream://f88981e0f28576b36c8aabb7738ee8fc009dafd0&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 madrid-inter
 plugin://program.plexus/?mode=1&url=acestream://3fb713631cc234e88f24151e043027e9546ea054&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 madrid-inter
