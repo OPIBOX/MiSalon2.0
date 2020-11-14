@@ -102,7 +102,7 @@
 <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|td>.*?href="(.*?)">(.*?)<]]></expres>
-<page>https://dailysport.pw/</page>
+<page>https://dailysport.live/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -112,7 +112,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>window.atob.*?"(.*?)"</expres>
-<page>https://dailysport.pw/[makelist.param3]</page>
+<page>https://dailysport.live/[makelist.param3]</page>
 </regex>
  </item>
 
