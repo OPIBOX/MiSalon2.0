@@ -89,13 +89,12 @@
 
 
 <item>
-<title>[COLOR purple][B]Dailysport[/COLOR][/B]</title>
+<title>Dailysport</title>
  <link>$doregex[makelist]</link>
-<thumbnail>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</thumbnail>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR red][makelist.param1][/COLOR red] [COLOR blue][makelist.param2][/COLOR blue] [COLOR green][makelist.param3][/COLOR green][COLOR purple] [makelist.param5][/COLOR purple]</title>
+<title>[makelist.param1] [makelist.param2] [makelist.param3] [makelist.param5]</title>
 <fanart></fanart>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
 <thumbnail></thumbnail>
@@ -104,17 +103,19 @@
 <expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
 <page>https://dailysport.live/</page>
 </regex>
+
 <regex>
 <name>get-decode</name>
 <expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
 <page></page>
 </regex>
+
+
 <regex>
 <name>get-enctext</name>
 <expres>(?s)if \(false\).*?window.atob\("(.+?)"</expres>
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
- </item>
 
 
 <item>
