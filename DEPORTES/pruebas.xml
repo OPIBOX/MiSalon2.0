@@ -88,14 +88,14 @@
 </item>
 
 <item>
-<title>Dailysport</title>
+<title>DailySports</title>
  <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1] [makelist.param2] [makelist.param3] [makelist.param5]</title>
 <fanart></fanart>
-<link>$doregex[get-decode]|User-Agent=iPad</link>
+<link>$doregex[makelist1]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 ]]></listrepeat>
@@ -103,19 +103,19 @@
 <page>https://dailysport.live/</page>
 </regex>
 
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-
 
 <regex>
-<name>get-enctext</name>
-<expres>(?s)if \(false\).*?window.atob\("(.+?)"</expres>
+<name>makelist1</name>
+<listrepeat><![CDATA[
+<title>Ver Evento</title>
+<fanart></fanart>
+<link>https://daily-live.s3.eu-west-3.amazonaws.com/[makelist1.param1][makelist1.param2]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)function randomUrl.*?var url =.*?,\s"(.*?)".*?else.*?new Clappr.Player.*?source: .*?randomUrl\(\) \+ '(.+?)']]></expres>
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
-
 
 
 
