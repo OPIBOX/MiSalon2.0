@@ -85,3 +85,33 @@
       <referer>https://daddylive.live/</referer>
     </regex>
   </item>
+  
+  
+  <item>
+<title>Dailysport</title>
+ <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1] [makelist.param2] [makelist.param3] [makelist.param5]</title>
+<fanart></fanart>
+<link>$doregex[get-decode]|User-Agent=iPad</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+]]></listrepeat>
+<expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
+<page>https://dailysport.live/</page>
+</regex>
+
+<regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
+
+
+<regex>
+<name>get-enctext</name>
+<expres>(?s)if \(false\).*?window.atob\("(.+?)"</expres>
+<page>https://dailysport.live/[makelist.param4]</page>
+</regex>
