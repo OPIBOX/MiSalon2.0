@@ -116,6 +116,6 @@
 <expres><![CDATA[(?s)function randomUrl.*?var url =.*?,\s"(.*?)".*?else.*?new Clappr.Player.*?source: .*?randomUrl\(\) \+ '(.+?)']]></expres>
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
-
+</item>
 
 
