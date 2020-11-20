@@ -95,13 +95,13 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR red][B][makelist.param1]  [makelist.param2][/COLOR] [COLOR green][makelist.param4][/B][/COLOR]</title>
+<title>[COLOR red][makelist.param1][/COLOR red] [COLOR blue][makelist.param2][/COLOR blue] [COLOR green][makelist.param3][/COLOR green][COLOR purple] [makelist.param5][/COLOR purple]</title>
 <fanart></fanart>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 ]]></listrepeat>
-<expres><![CDATA[.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|td>.*?href="(.*?)">(.*?)<]]></expres>
+<expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
 <page>https://dailysport.live/</page>
 </regex>
 <regex>
@@ -111,8 +111,8 @@
 </regex>
 <regex>
 <name>get-enctext</name>
-<expres>window.atob.*?"(.*?)"</expres>
-<page>https://dailysport.live/[makelist.param3]</page>
+<expres>(?s)if \(false\).*?window.atob\("(.+?)"</expres>
+<page>https://dailysport.live/[makelist.param4]</page>
 </regex>
  </item>
 
