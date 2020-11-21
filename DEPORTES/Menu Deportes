@@ -26,11 +26,12 @@
 
 <item>
 <title>[COLOR orange]Dailysport[/COLOR]</title>
+<thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
  <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[makelist.param1] [makelist.param2] [makelist.param3] [makelist.param5]</title>
+<title>[COLOR purple][makelist.param1][/COLOR][COLOR green] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
 <fanart></fanart>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
 <thumbnail></thumbnail>
