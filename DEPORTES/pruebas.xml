@@ -112,7 +112,7 @@
 
 <regex>
 <name>get-enctext</name>
-<expres>(?s)if \(false\).*?var engine =.*?var player =.*?window.atob\("(.+?)"(.*?)else.*? var player =.*?new Clappr.Player\(.*?source:.*?\("(.+?)"</expres>
+<expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
 
