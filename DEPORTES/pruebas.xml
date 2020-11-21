@@ -115,5 +115,7 @@
 <expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
+ </item>
+ 
 
 
