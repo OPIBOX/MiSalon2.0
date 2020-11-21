@@ -22,36 +22,34 @@
 <thumbnail>https://lh3.googleusercontent.com/LGHIZxwN8QnPumkVCDMXPWbXvmy_26M-M3AjcpMqGdywhlAMtkDtU1SS0Sd1J917YgI</thumbnail>
 <fanart>https://lh3.googleusercontent.com/LGHIZxwN8QnPumkVCDMXPWbXvmy_26M-M3AjcpMqGdywhlAMtkDtU1SS0Sd1J917YgI</fanart>
 </item>
+
+
 <item>
-<title>DailySports</title>
+<title>[COLOR orange]Dailysport[/COLOR]</title>
  <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
 <title>[makelist.param1] [makelist.param2] [makelist.param3] [makelist.param5]</title>
 <fanart></fanart>
-<link>$doregex[makelist1]</link>
+<link>$doregex[get-decode]|User-Agent=iPad</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
 <page>https://dailysport.live/</page>
 </regex>
+ 
+ <regex>
+<name>get-decode</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
+<page></page>
+</regex>
 
 
 <regex>
-<name>makelist1</name>
-<listrepeat><![CDATA[
-<title>Ver Evento</title>
-<fanart></fanart>
-<link>https://daily-live.s3.eu-west-3.amazonaws.com/[makelist1.param1][makelist1.param2]</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[(?s)function randomUrl.*?var url =.*?,\s"(.*?)".*?else.*?new Clappr.Player.*?source: .*?randomUrl\(\) \+ '(.+?)']]></expres>
+<name>get-enctext</name>
+<expres>(?s)if \(false\).*?else.*?var player =.*?new Clappr.Player\(.*?source:.*?window.atob\("(.+?)"</expres>
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
-</item>
-
-
-
+ </item>
