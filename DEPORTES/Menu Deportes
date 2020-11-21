@@ -31,7 +31,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR purple][makelist.param1][/COLOR][COLOR green] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
+<title>[COLOR orange][makelist.param1][/COLOR][COLOR yellow] [makelist.param2][/COLOR] [COLOR white][makelist.param3][/COLOR][COLOR red] [makelist.param5][/COLOR]</title>
 <fanart></fanart>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
 <thumbnail></thumbnail>
