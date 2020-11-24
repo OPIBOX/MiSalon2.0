@@ -25,7 +25,7 @@
 
 
 <item>
-<title>[COLOR orange]Dailysport[/COLOR]</title>
+<title>[COLOR blue]Dailysport[/COLOR]</title>
 <thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
  <link>$doregex[makelist]</link>
 <regex>
