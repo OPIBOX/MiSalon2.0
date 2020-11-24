@@ -116,6 +116,44 @@
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
  </item>
+
+
+<item>
+<title>[COLOR red]Agenda 1[/COLOR]</title>
+<info>Se actualiza diariamente</info>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR red][makelist.param1][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+  <link>$doregex[geturl]</link>
+]]></listrepeat>
+<expres>(.\d.\d.*?\s\|)\s(.*?).php</expres>
+<page>http://sportzonline.to/prog.txt</page>
+</regex>
+
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>http:$doregex[getEnc]</page>
+<referer>[makelist.param2].php</referer>
+</regex>
+ <regex>
+<name>getEnc</name>
+<expres><![CDATA[iframe.*?src="(.*?)"]]></expres>
+<page>[makelist.param2].php</page>
+</regex>
+</item>
+
  
 
 
