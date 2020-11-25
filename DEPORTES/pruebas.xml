@@ -208,7 +208,7 @@
 <fanart></fanart>
   <link>$doregex[geturl]</link>
 ]]></listrepeat>
-<expres>(\d\d:\d\d)\s.+?\|\s(.+?).php</expres>
+<expres>((\d\d:\d\d)\s.+?\|)\s(.+?).php</expres>
 <page>http://sportzonline.to/prog.txt</page>
 </regex>
 
