@@ -54,3 +54,25 @@
 <page>https://dailysport.live/[makelist.param4]</page>
 </regex>
  </item>
+ 
+ 
+ 
+ 
+  <item>
+<title>[COLOR red]Agenda 3[/COLOR]</title>
+<info>Se actualiza diariamente</info>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR red][makelist.param1][/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+  <link>$doregex[geturl]</link>
+]]></listrepeat>
+<expres>(\d\d:\d\d\s.+?\s.+?)\|\s(.+?).php</expres>
+<page>http://sportzonline.to/prog.txt</page>
+</regex>
+</item>
