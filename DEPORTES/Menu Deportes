@@ -27,6 +27,7 @@
 <item>
 <title>[COLOR blue]Dailysport[/COLOR]</title>
 <thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</fanart>
  <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -82,6 +83,7 @@
 <item>
 <title>[COLOR blue]Dailysport[/COLOR]</title>
 <thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikinews/en/1/18/DailySport_logo.png</fanart>
  <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
