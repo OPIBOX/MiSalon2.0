@@ -61,7 +61,7 @@
  
  
   <item>
-<title>[COLOR red]Agenda 3[/COLOR]</title>
+<title>[COLOR red]sportzonline[/COLOR]</title>
 <info>Se actualiza diariamente</info>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -113,4 +113,21 @@
 <page>https://dailysport.space/[makelist.param4]</page>
 </regex>
  </item>
+ 
+ <item>
+  <title>[COLOR blue]daddy[/COLOR]</title>
+  <link>$doregex[makelist]</link>
+  <thumbnail></thumbnail>
+    <regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+        <title>[COLOR red][makelist.param1] [COLOR blue][makelist.param2] [COLOR white] [makelist.param4][/COLOR]</title>
+        <link>$doregex[url]|User-Agent=iPad</link>
+        <thumbnail></thumbnail>
+      ]]></listrepeat>
+      <expres>>(\d\d:\d\d)\s(.*?)<.*?|a href="(.*?)".*?#ff0000;">(.*?)<</expres>
+      <page>https://daddylive.live/index.php</page>
+      <referer>https://daddylive.live/</referer>
+    </regex>
+</item>
  
