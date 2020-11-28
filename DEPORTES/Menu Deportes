@@ -130,4 +130,23 @@
       <referer>https://daddylive.live/</referer>
     </regex>
 </item>
+
+
+
+ <item>
+  <title>[COLOR blue]onlyfoot[/COLOR]</title>
+  <link>$doregex[makelist]</link>
+  <thumbnail></thumbnail>
+    <regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+        <title>[COLOR red][makelist.param1] [COLOR blue][makelist.param2] [COLOR white] [makelist.param4][/COLOR]</title>
+        <link>$doregex[url]|User-Agent=iPad</link>
+        <thumbnail></thumbnail>
+      ]]></listrepeat>
+      <expres>(<h4>(.*?)</h4>)|(<h6>.*?</h6>)|(<h2>.*?</h2>)|>(\d\d:\d\d)<.*?|a href="(.*?)">(.*?)<</expres>
+      <page>https://www.onlyfoot.net/</page>
+      
+    </regex>
+</item>
  
