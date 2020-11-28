@@ -141,12 +141,12 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-  <title>[COLOR red][makelist.param2] [COLOR blue][makelist.param3] [COLOR white] [makelist.param4][/COLOR][makelist.param5][makelist.param6][makelist.param7]</title>
+  <title>[COLOR red][makelist.param1] [COLOR blue][makelist.param2] [COLOR white] [makelist.param3][/COLOR][makelist.param4][makelist.param5]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
   <link>$doregex[geturl]</link>
 ]]></listrepeat>
-<expres>(<h4>(.*?)</h4>)|(<h6>.*?</h6>)|(<h2>.*?</h2>)|>(\d\d:\d\d)<.*?|a href="(.*?)">(.*?)<</expres>
+<expres>(<h6>.*?</h6>)|(<h2>.*?</h2>)|>(\d\d:\d\d)<.*?|a href="(.*?)">(.*?)<</expres>
 <page>https://www.onlyfoot.net/</page>
 </regex>
 </item>
