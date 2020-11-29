@@ -5,8 +5,8 @@ https://dailyspace.s3.eu-central-1.amazonaws.com/10/10.m3u8
 https://dailyspace.s3.eu-central-1.amazonaws.com/1b/1.m3u8
 #EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 la premier
 https://dailyspace.s3.eu-central-1.amazonaws.com/31/31.m3u8
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 sin evento
-https://cdn1.dailysport.live/6/6.m3u8
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",canal 4 serie A
+https://dailyspace.s3.eu-central-1.amazonaws.com/8/8.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",canal 5 sin evento
 https://cdn1.dailysport.live/8/8.m3u8
 #EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",canal 6 sin evento
