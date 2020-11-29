@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 F1
 plugin://program.plexus/?mode=1&url=acestream://8cafff0010b598e8e72509098861c688c5e68162&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 la liga
-plugin://program.plexus/?mode=1&url=acestream://e4f6cb6a8ef90c504152430e69f3cd411a5fd871&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://7a433026712718b1d2cac925108243170d0f9019&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 serie A
 plugin://program.plexus/?mode=1&url=acestream://d03d8e0f70c7e760e6b0ae34b2b9db9c72234a30&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
