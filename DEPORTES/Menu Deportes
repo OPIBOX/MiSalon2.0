@@ -6,7 +6,7 @@
 <thumbnail>https://lh3.googleusercontent.com/crgmI3z8Rq36RHTfFdpVVP44xMwkt7HUhqQkYOyxLTZwve7MjnmU-gaCNdZSBds8p4i3</thumbnail>
 <fanart>https://www.testdevelocidad.es/app/uploads/2017/08/acestream.jpg</fanart>
 </item>
-<item>
+<item
 <title>[COLOR blue]Enlaces WEBS[/COLOR] </title>
 <link>_</link>
 <externallink>https://raw.githubusercontent.com/OPIBOX/OPIBOX.1.3/master/DEPORTES/webs</externallink>
@@ -57,32 +57,8 @@
 </regex>
  </item>
  
- 
- 
- 
-  <item>
-<title>[COLOR red]sportzonline[/COLOR]</title>
-<info>Se actualiza diariamente</info>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR red][makelist.param1][/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-  <link>$doregex[geturl]</link>
-]]></listrepeat>
-<expres>(\d\d:\d\d\s.+?\s.+?)\|\s(.+?).php</expres>
-<page>http://sportzonline.to/prog.txt</page>
-</regex>
-</item>
-
-
-
-<item>
-<title>[COLOR blue]Dailysport[/COLOR]</title>
+ <item>
+<title>[COLOR blue]Dailysport 2[/COLOR]</title>
 <thumbnail>https://media.info/i/lf/300/1405339467/1567.png</thumbnail>
 <fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
  <link>$doregex[makelist]</link>
@@ -114,76 +90,84 @@
 </regex>
  </item>
  
+ 
+  <item>
+<title>[COLOR blue]SportZOnline[/COLOR]</title>
+<info>web Sport Z Online</info>
+<thumbnail>https://c1.staticflickr.com/9/8740/17060309785_383786b9bb_c.jpg</thumbnail>
+<fanart>https://c1.staticflickr.com/9/8740/17060309785_383786b9bb_c.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+  <title>[COLOR red][makelist.param1][/COLOR]</title>
+<thumbnail>https://c1.staticflickr.com/9/8740/17060309785_383786b9bb_c.jpg</thumbnail>
+<fanart>https://c1.staticflickr.com/9/8740/17060309785_383786b9bb_c.jpg</fanart>
+  <link>$doregex[geturl]</link>
+]]></listrepeat>
+<expres>(\d\d:\d\d\s.+?\s.+?)\|\s(.+?).php</expres>
+<page>http://sportzonline.to/prog.txt</page>
+</regex>
+
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>http:$doregex[getEnc]</page>
+<referer>[makelist.param2].php</referer>
+</regex>
+ <regex>
+<name>getEnc</name>
+<expres><![CDATA[iframe.*?src="(.*?)"]]></expres>
+<page>[makelist.param2].php</page>
+</regex>
+</item>
+
+
+
+
+
+
  <item>
-  <title>[COLOR blue]daddy[/COLOR]</title>
-  <link>$doregex[makelist]</link>
-  <thumbnail></thumbnail>
+   <title>[COLOR blue]Daddy live(VPN)[/COLOR]</title>
+   <link>$doregex[makelist]</link>
+   <thumbnail>https://thumbs.dreamstime.com/z/equipo-de-deportes-18728421.jpg</thumbnail>
+   <fanart>https://thumbs.dreamstime.com/z/equipo-de-deportes-18728421.jpg</fanart>
     <regex>
       <name>makelist</name>
       <listrepeat><![CDATA[
         <title>[COLOR red][makelist.param1] [COLOR blue][makelist.param2] [COLOR white] [makelist.param4][/COLOR]</title>
         <link>$doregex[url]|User-Agent=iPad</link>
-        <thumbnail></thumbnail>
+        <thumbnail>https://thumbs.dreamstime.com/z/equipo-de-deportes-18728421.jpg</thumbnail>
+        <fanart>https://thumbs.dreamstime.com/z/equipo-de-deportes-18728421.jpg</fanart>
       ]]></listrepeat>
       <expres>>(\d\d:\d\d)\s(.*?)<.*?|a href="(.*?)".*?#ff0000;">(.*?)<</expres>
       <page>https://daddylive.live/index.php</page>
       <referer>https://daddylive.live/</referer>
     </regex>
-</item>
-
-
- <item>
-<title>[COLOR blue]onlyfoot[/COLOR]</title>
-<info>Se actualiza diariamente</info>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-  <title>[COLOR red][makelist.param1] [COLOR blue][makelist.param2] [COLOR white] [makelist.param3][/COLOR][makelist.param4][makelist.param5]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-  <link>$doregex[geturl]</link>
-]]></listrepeat>
-<expres>(<h6>.*?</h6>)|(<h2>.*?</h2>)|>(\d\d:\d\d)<.*?|a href="(.*?)">(.*?)<</expres>
-<page>https://www.onlyfoot.net/</page>
-</regex>
-</item>
-
-
- <item>
-  <title>[COLOR red]onlyfoot[/COLOR]</title>
-  <link>$doregex[makelist]</link>
-  <thumbnail></thumbnail>
-    <regex>
-      <name>makelist</name>
-      <listrepeat><![CDATA[
-        <title>[COLOR red][makelist.param2] [COLOR blue][makelist.param3] [COLOR white] [makelist.param4][/COLOR][makelist.param5][makelist.param6][makelist.param7]</title>
-        <link>$doregex[url]|User-Agent=iPad</link>
-        <thumbnail></thumbnail>
-      ]]></listrepeat>
-      <expres>(<h4>(.*?)</h4>)|(<h6>.*?</h6>)|(<h2>.*?</h2>)|>(\d\d:\d\d)<.*?|a href="(.*?)">(.*?)<</expres>
-      <page>https://www.onlyfoot.net/</page>
-      
+    
+       <regex>
+      <name>url</name>
+      <expres>source:\s*"([^"]+)</expres>
+      <page>$doregex[unpack]</page>
     </regex>
-</item>
+    <regex>
+      <name>unpack</name>
+      <expres>$pyFunction:get_unpacked(page_data,'(?s)(eval\(function\(p,a,c,k,e,d.*?)&lt;/.+')</expres>
+      <page>$doregex[url2]</page>
+      <referer>https://daddylive.live/</referer>
+    </regex>
+    <regex>
+      <name>url2</name>
+      <expres>iframe\s*src="([^"]+)</expres>
+      <page>[makelist.param3]</page>
+      <referer>https://daddylive.live/</referer>
+    </regex>
+  </item>
+    
 
 
-
-<item>
- <title>[COLOR green]onlyfoot[/COLOR]</title>
- <link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR red][makelist.param2] [COLOR blue][makelist.param3] [COLOR white] [makelist.param4][/COLOR][makelist.param5][makelist.param6][makelist.param7]</title>
-<fanart></fanart>
-<link>$doregex[get-decode]|User-Agent=iPad</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[(<h4>(.*?)</h4>)|(<h6>.*?</h6>)|(<h2>.*?</h2>)|>(\d\d:\d\d)<.*?|a href="(.*?)">(.*?)<]></expres>
-<page>https://www.onlyfoot.net/</page>
-</regex>
- </item>
