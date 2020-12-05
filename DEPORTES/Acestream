@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 ferenvaros-barsa
-plugin://program.plexus/?mode=1&url=acestream://79cbd6eb79ccdfa041e134e0f6041482e318fb07&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sevilla-chelsea
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 1 F1
+plugin://program.plexus/?mode=1&url=acestream://823fe40c931b3ac9acb024062b5bd86a14b0277c&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 sin evento
 plugin://program.plexus/?mode=1&url=acestream://6d3a4b3d0063f562fd5938d51a26ef071c140a20&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 sin evento
 plugin://program.plexus/?mode=1&url=acestream://8c670af0f67517434ab3b567af4c3ae9fb2c990b&mode=1&name=acestream&mode=1&name=
