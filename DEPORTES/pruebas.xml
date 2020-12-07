@@ -112,7 +112,8 @@
 
 <regex>
 <name>get-enctext</name>
-<expres>(?s)if \(false\).*?var engine =.*?new p2pml.hlsjs.Engine\(config\);.*?var player = new Clappr.Player\(.*?source:.*?\{.*? else.*? var player = new Clappr.Player\(.*?source:(.+?),</expres>
+<expres>(?s)if \(false\).*?var engine =.*?new p2pml.hlsjs.Engine\(config\);.*?var player = new Clappr.Player\(.*?source:.*?; 
+ } else.*?{.*? var player = new Clappr.Player\({.*?source: '(.*?)'</expres>
 <page>https://dailysport.cloud/[makelist.param4]</page>
 </regex>
  </item>
