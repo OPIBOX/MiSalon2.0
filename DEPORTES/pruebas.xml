@@ -88,7 +88,7 @@
 </item>
 
 <item>
-<title>[COLOR orange]Dailysport[/COLOR]</title>
+<title>[COLOR green]Dailysport[/COLOR]</title>
  <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -112,7 +112,7 @@
 
 <regex>
 <name>get-enctext</name>
-<expres>(?s)if \(false\).*?var engine =.*? else .*? var player =.*?source:.*?'(.+?)'</expres>
+<expres>(?s)if \(false\).*?var engine =.*? else .*? var player =.*?source:.*?'(.+?)'\s</expres>
 <page>https://dailysport.cloud/[makelist.param4]</page>
 </regex>
  </item>
