@@ -5,8 +5,8 @@ plugin://program.plexus/?mode=1&url=acestream://9fad8d1f94df69ae53fc08c23cb2aac1
 plugin://program.plexus/?mode=1&url=acestream://24911d1527453edc1ce806e409b794bcf3146083&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 salzburgo-atleti
 plugin://program.plexus/?mode=1&url=acestream://d980d95a31ff59fdd2dc91a39fb1131c9fa3997e&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 leipzig-united
-plugin://program.plexus/?mode=1&url=acestream://9645dac472fa418ccdec8eae3ec9297c7da5c660&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 madrid-borussia
+plugin://program.plexus/?mode=1&url=acestream://a4ec525da7fff5061c4ca4deeafd254a89899b1b&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
 plugin://program.plexus/?mode=1&url=acestream://67c28e28c302cdc797907f5789b9b9712212669c&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 6 sin evento
