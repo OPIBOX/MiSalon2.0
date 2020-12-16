@@ -3,8 +3,8 @@
 plugin://program.plexus/?mode=1&url=acestream://bcabc5b29e8039beabcbf10a9c1ac368db10c753&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 2 barsa-sociedad
 plugin://program.plexus/?mode=1&url=acestream://622668521d8700743ed055c8aba015998678960c&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 sin evento
-plugin://program.plexus/?mode=1&url=acestream://d980d95a31ff59fdd2dc91a39fb1131c9fa3997e&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 3 barsa-sociedad
+plugin://program.plexus/?mode=1&url=acestream://030fcd9d8df6c8ea62cc3278541d6fdc46ef0f25&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 4 sin evento
 plugin://program.plexus/?mode=1&url=acestream://a4ec525da7fff5061c4ca4deeafd254a89899b1b&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",Acestream 5 sin evento
