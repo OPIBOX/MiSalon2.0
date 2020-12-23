@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",canal 1 la liga
-https://storage.googleapis.com/dailycl14/1a/1.m3u8
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 la liga 1
+https://storage.googleapis.com/dailycl14/1c/1.m3u8
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",canal 2 sin evento
 https://storage.googleapis.com/dailycl14/2/2.m3u8
 #EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",Canal 3 sin evento
 https://storage.googleapis.com/dailycl4/10/10.m3u8
