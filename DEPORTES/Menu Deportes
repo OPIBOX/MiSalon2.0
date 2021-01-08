@@ -205,9 +205,8 @@
 </regex>
  </item>
  
- 
  <item>
-<title>[COLOR darkorange]DailySport opcion 4[/COLOR]</title>
+<title>[COLOR darkorange]DailySport[/COLOR]</title>
 <info>Se actualiza diariamente</info>
 <thumbnail>https://i.imgur.com/kHOtn4i.jpg</thumbnail>
 <fanart>https://i.imgur.com/kHOtn4i.jpg</fanart>
@@ -249,6 +248,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>https://dailysport.cyou/[makelist.param4]</page>
 </regex>
  </item>
+
     
 
 
