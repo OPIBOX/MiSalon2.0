@@ -248,7 +248,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
 <page>https://dailysport.cyou/[makelist.param4]</page>
 </regex>
- </item>>
+ </item>
     
 
 
