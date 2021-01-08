@@ -208,8 +208,8 @@
  <item>
 <title>[COLOR red]DailySport opcion 4[/COLOR]</title>
 <info>Se actualiza diariamente</info>
-<thumbnail>https://i.imgur.com/kHOtn4i.jpg</thumbnail>
-<fanart>https://i.imgur.com/kHOtn4i.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <link>$doregex[makelist]</link>
 
 
@@ -218,8 +218,8 @@
 <listrepeat><![CDATA[
 <title>[COLOR orange][B][makelist.param1][/B][/COLOR] [COLOR white][makelist.param2][/COLOR][COLOR lime] [makelist.param3] [/COLOR][COLOR gold][makelist.param5][/COLOR] </title>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
-<thumbnail>https://i.imgur.com/kHOtn4i.jpg</thumbnail>
-<fanart>https://i.imgur.com/kHOtn4i.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re , requests , xbmc , xbmcaddon , xbmcgui
