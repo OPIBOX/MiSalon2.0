@@ -191,7 +191,7 @@
 <fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
-<page>https://dailysport.website/</page>
+<page>https://dailysport.surf/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -201,7 +201,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.website/[makelist.param4]</page>
+<page>https://dailysport.surf/[makelist.param4]</page>
 </regex>
  </item>
  
