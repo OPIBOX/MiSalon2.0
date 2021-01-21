@@ -42,7 +42,7 @@
 <fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[.tr><th>(.*?)</|.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|href="(.*?)">(.*?)<]]></expres>
-<page>https://dailysport.cyou/</page>
+<page>https://dailysport.store/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -52,7 +52,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.cyou/[makelist.param4]</page>
+<page>https://dailysport.store/[makelist.param4]</page>
 </regex>
  </item>
  
@@ -158,7 +158,7 @@
 <fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[.tr><th>(.*?)</|.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|href="(.*?)">(.*?)<]]></expres>
-<page>https://dailysport.cyou/</page>
+<page>https://dailysport.store/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -168,7 +168,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.cyou/[makelist.param4]</page>
+<page>https://dailysport.store/[makelist.param4]</page>
 </regex>
  </item>
  
@@ -225,14 +225,14 @@
 import re , requests , xbmc , xbmcaddon , xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
  
-    url= 'https://dailysport.cyou/'
+    url= 'https://dailysport.store/'
     agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.cyou/'}
     extraer = requests.get(url, headers=agent)
     links = re.findall('(?s)<td><b>(.+?)<|<td>(\d\d.*?)<.*?<td>(.+?)<.*?href="(.+?)">(.+?)<', extraer.text)
     return links
 ]]></expres>
 <page></page>
-<referer>https://dailysport.cyou/</referer>
+<referer>https://dailysport.store/</referer>
 <cookieJar>__cfduid=d328bf84a9e848be74037db6c007368251608050648</cookieJar>
 </regex>
 
@@ -245,7 +245,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.cyou/[makelist.param4]</page>
+<page>https://dailysport.store/[makelist.param4]</page>
 </regex>
  </item>
 
