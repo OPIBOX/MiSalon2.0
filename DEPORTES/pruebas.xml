@@ -891,6 +891,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title> [COLOR blue]M LIGA CAMPEONES[/COLOR]</title>
+<thumbnail>https://i1.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png</thumbnail>
+<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<regex>
+<name>geturl</name>
+<expres>source:"(.*?)"</expres>
+<page>$doregex[getunpacked]</page>
+</regex>
+<regex>
+<name>getunpacked</name>
+<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
+<page>$doregex[pagina]</page>
+<referer>https://adictosalatele.com</referer>
+<connection>keep-alive</connection>
+</regex>
+<regex>
+<name>pagina</name>
+<expres>iframe.*?src="(.*?)"</expres>
+<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones/live.php</page>
+</regex>
+</item>
+
+<item>
 <title>[COLOR darkorange]La Liga de Campeones[/COLOR]</title>
 <link>$doregex[get_unpaked]</link>
 <thumbnail>https://adictosalatele.com/logos/campeones.png</thumbnail>
