@@ -1,25 +1,30 @@
 
 <item>
-<title> [COLOR blue]La 1  [/COLOR]</title>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png</thumbnail>
-<link>$doregex[geturl]|User-Agent=Mozilla/5.0 (Android 7.0; Tablet; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2</link>
+<title>[COLOR blue]La 1[/COLOR]</title>
+<link>$doregex[get_unpaked]</link>
+<thumbnail>https://adictosalatele.com/logos/la1.png</thumbnail>
 <regex>
-<name>geturl</name>
-<expres>source:"(.*?)"</expres>
-<page>$doregex[getunpacked]</page>
-</regex>
-<regex>
-<name>getunpacked</name>
-<expres>$pyFunction:get_unpacked(page_data,'(eval\(function\(p,a,c,k,e,d.*)' )</expres>
-<page>$doregex[pagina]</page>
-<referer>https://adictosalatele.com</referer>
-<connection>keep-alive</connection>
-</regex>
-<regex>
-<name>pagina</name>
-<expres>iframe.*?src="(.*?)"</expres>
+<name>get_unpaked</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+from urlresolver.plugins.lib import jsunpack
+def GetLSProData(page_data,Cookie_Jar,m):
+ 
+  link=re.findall('iframe\s*src=[\'"](.*?)[\'"]', page_data)[0]
+  source=requests.get(link,headers={'user-agent':'Mozilla/5.0','referer':'https://adictosalatele.com/TV/espana/tve1/','accept':'*/*'}, verify=False).content
+  source=jsunpack.unpack(re.findall('(?s)(eval\(function\(p,a,c,k,e,d\).*?)</script>',source)[0]).replace('\\', '')
+  u = re.findall('(?:source|src|file):.*?[\'"]([^\'"]+)',source)[0].decode('base64')
+  u2 = u.decode('base64')
+  u3 = u2.decode('base64')
+  u4 = u3.decode('base64').replace('espare.tk', '23.237.173.109')
+  return u4
+]]></expres>
 <page>https://adictosalatele.com/TV/espana/tve1/</page>
+<referer>https://adictosalatele.com/canales-de-espana/</referer>
 </regex>
+</item>
+
+
 </item>
 <item>
 <title> [COLOR blue]La 2  [/COLOR]</title>
