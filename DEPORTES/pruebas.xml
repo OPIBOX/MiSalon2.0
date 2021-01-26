@@ -909,7 +909,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>pagina</name>
 <expres>iframe.*?src="(.*?)"</expres>
-<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones/live.php</page>
+<page>https://adictosalatele.com/TV/deportes/movistar-ligacampeones/</page>
 </regex>
 </item>
 
