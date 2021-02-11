@@ -225,7 +225,7 @@
 import re , requests , xbmc , xbmcaddon , xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
  
-    url= 'https://dailysport.monster/'
+    url= 'https://dailysport.fun/'
     agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.fun/'}
     extraer = requests.get(url, headers=agent)
     links = re.findall('(?s)<td><b>(.+?)<|<td>(\d\d.*?)<.*?<td>(.+?)<.*?href="(.+?)">(.+?)<', extraer.text)
@@ -271,7 +271,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import re , requests , xbmc , xbmcaddon , xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
  
-    url= 'https://dailysport.work/'
+    url= 'https://dailysport.fun/'
     agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.fun/'}
     extraer = requests.get(url, headers=agent)
     links = re.findall('(?s)<td><b>(.+?)<|<td>(\d\d.*?)<.*?<td>(.+?)<.*?href="(.+?)">(.+?)<', extraer.text)
