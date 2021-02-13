@@ -250,9 +250,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
  </item>
  
  
- 
 <item>
-<title>[COLOR darkorange]DailySport opcion5[/COLOR]</title>
+<title>[COLOR darkorange]DailySport opcion 5[/COLOR]</title>
 <info>Se actualiza diariamente</info>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -294,6 +293,5 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page>https://dailysport.fun/[makelist.param4]</page>
 </regex>
  </item>
-    
 
 
