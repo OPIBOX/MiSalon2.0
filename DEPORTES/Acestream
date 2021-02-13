@@ -3,10 +3,10 @@
 plugin://program.plexus/?mode=1&url=acestream://66b57e0af18eaac1dd8a553f8d72cf334b466cec&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 2 la liga[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://6056307b13b7c2a4a9ae07a518a8850578e3b25c&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 3 sin evento[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://1389de8d4619715623e69afe8b67fabaee44fd9e&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 4 sin evento[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://51fcf74911a688d71ae215d1ebaa5d65aebe3026&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 3 eurosport 1[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://83f44ee5f5a67de9f704a147e73006c287a3822f&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 4 vamos[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://1ffd7a30577ec436a44edd3ce12326d20bebcbc4&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 5 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://20c4c5cbb280293e9f11dacec061945c7b4a399f&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 6 sin evento[/COLOR]
