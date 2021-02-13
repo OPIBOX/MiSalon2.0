@@ -5,8 +5,8 @@ https://dailysportbucket70.s3.amazonaws.com/1/1.m3u8
 https://dailysportbucket70.s3.amazonaws.com/7/7.m3u8
 #EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",[COLOR green]Canal 3 tenis nadal[/COLOR]
 https://dailysportbucket70.s3.amazonaws.com/1/1.m3u8
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",[COLOR white]canal 4 sin evento[/COLOR]
-https://dailysportbucket70.s3.amazonaws.com/7/7.m3u8
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",[COLOR green]canal 4 tenis nadal[/COLOR]
+http://91.126.141.201:1935/live/eurosport1nntv/chunklist_w65928025.m3u8?per
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",[COLOR white]canal 5 sin evento[/COLOR]
 http://trialflying.com:8080/live/Jo.r.geagayonkyn1/x0tfefwdri/13484.m3u8
 #EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",[COLOR white]canal 6 sin evento[/COLOR]
