@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 1 Nadal 10:30[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://66b57e0af18eaac1dd8a553f8d72cf334b466cec&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 1 la liga[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://0d979a01a8f4e0f335336dbd1f04eadeb8d9769e&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 2 la liga[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://6056307b13b7c2a4a9ae07a518a8850578e3b25c&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 3 eurosport 1[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://cb11e251dfde48024bd2d0d6a14215e324b5b347&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 3 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://83f44ee5f5a67de9f704a147e73006c287a3822f&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 4 vamos[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 4 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://1ffd7a30577ec436a44edd3ce12326d20bebcbc4&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 5 eurosport 1 lucas[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 5 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://075cabc1609e71a8eee90ccb0f5aabc9e8fc6444f&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 6 la liga[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 6 sin evenro[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://5bd82012d71dbadae1489fc29c44bbcc5755c030&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 7 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://cc4116f8a7fc8870f2841c8830748d1e89dad320&mode=1&name=acestream&mode=1&name=
