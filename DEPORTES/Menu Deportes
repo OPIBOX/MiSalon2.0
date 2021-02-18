@@ -42,7 +42,7 @@
 <fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[.tr><th>(.*?)</|.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|href="(.*?)">(.*?)<]]></expres>
-<page>https://dailysport.fun/</page>
+<page>https://dailysport.bar/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -52,7 +52,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.fun/[makelist.param4]</page>
+<page>https://dailysport.bar/[makelist.param4]</page>
 </regex>
  </item>
  
@@ -158,7 +158,7 @@
 <fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[.tr><th>(.*?)</|.tr>\n.*?td>(.*?)<.*\n.*?td>(.*?)<.*\n|href="(.*?)">(.*?)<]]></expres>
-<page>https://dailysport.fun/</page>
+<page>https://dailysport.bar/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -168,7 +168,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.fun/[makelist.param4]</page>
+<page>https://dailysport.bar/[makelist.param4]</page>
 </regex>
  </item>
  
@@ -191,7 +191,7 @@
 <fanart>https://www.scamcard.com/images/Daily%20Sport%202011.png</fanart>
 ]]></listrepeat>
 <expres><![CDATA[(?s)<tr><th>(.+?)</th></tr>|<td>(\d.*?)</td>.*?<td>(.+?)</td>|href="(.+?)">(.+?)<]]></expres>
-<page>https://dailysport.fun/</page>
+<page>https://dailysport.bar/</page>
 </regex>
 <regex>
 <name>get-decode</name>
@@ -201,7 +201,7 @@
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.fun/[makelist.param4]</page>
+<page>https://dailysport.bar/[makelist.param4]</page>
 </regex>
  </item>
  
@@ -226,13 +226,13 @@ import re , requests , xbmc , xbmcaddon , xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
  
     url= 'https://dailysport.fun/'
-    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.fun/'}
+    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.bar/'}
     extraer = requests.get(url, headers=agent)
     links = re.findall('(?s)<td><b>(.+?)<|<td>(\d\d.*?)<.*?<td>(.+?)<.*?href="(.+?)">(.+?)<', extraer.text)
     return links
 ]]></expres>
 <page></page>
-<referer>https://dailysport.fun/</referer>
+<referer>https://dailysport.bar/</referer>
 <cookieJar>__cfduid=d328bf84a9e848be74037db6c007368251608050648</cookieJar>
 </regex>
 
@@ -245,7 +245,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.fun/[makelist.param4]</page>
+<page>https://dailysport.bar/[makelist.param4]</page>
 </regex>
  </item>
  
@@ -261,23 +261,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR orange][B][makelist.param1][/B][/COLOR] [COLOR white][makelist.param2][/COLOR][COLOR lime] [makelist.param3] [/COLOR][COLOR gold][makelist.param5][/COLOR] </title>
+<title>[COLOR orange][B][makelist.param1][/B][/COLOR][COLOR white][makelist.param2][/COLOR][COLOR lime] [makelist.param3] [/COLOR][COLOR gold][makelist.param5][/COLOR] </title>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.imgur.com/kHOtn4i.jpg</thumbnail>
+<fanart>https://i.imgur.com/kHOtn4i.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re , requests , xbmc , xbmcaddon , xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
  
-    url= 'https://dailysport.fun/'
-    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.fun/'}
+    url= 'https://dailysport.bar/'
+    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.bar/'}
     extraer = requests.get(url, headers=agent)
-    links = re.findall('(?s)<td><b>(.+?)<|<td>(\d\d.*?)<.*?<td>(.+?)<.*?href="(.+?)">(.+?)<', extraer.text)
+    links = re.findall('(?s)<td><b>(.+?)</b>|<td>(\d{1,2}.*?)</td>\s.*?<td>(.*?)</td>|<td><a href="(.+?)">(.+?)</a></td>', extraer.text)
     return links
 ]]></expres>
 <page></page>
-<referer>https://dailysport.fun/</referer>
+<referer>https://dailysport.bar/</referer>
 <cookieJar>__cfduid=d328bf84a9e848be74037db6c007368251608050648</cookieJar>
 </regex>
 
@@ -290,7 +290,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <regex>
 <name>get-enctext</name>
 <expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.fun/[makelist.param4]</page>
+<page>https://dailysport.bar/[makelist.param4]</page>
 </regex>
  </item>
 
