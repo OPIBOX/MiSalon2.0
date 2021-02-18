@@ -205,53 +205,10 @@
 </regex>
  </item>
  
- <item>
-<title>[COLOR red]DailySport opcion 4[/COLOR]</title>
-<info>Se actualiza diariamente</info>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>$doregex[makelist]</link>
 
-
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR orange][B][makelist.param1][/B][/COLOR] [COLOR white][makelist.param2][/COLOR][COLOR lime] [makelist.param3] [/COLOR][COLOR gold][makelist.param5][/COLOR] </title>
-<link>$doregex[get-decode]|User-Agent=iPad</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-]]></listrepeat>
-<expres><![CDATA[#$pyFunction
-import re , requests , xbmc , xbmcaddon , xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
- 
-    url= 'https://dailysport.fun/'
-    agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36', 'Referer': 'https://dailysport.bar/'}
-    extraer = requests.get(url, headers=agent)
-    links = re.findall('(?s)<td><b>(.+?)<|<td>(\d\d.*?)<.*?<td>(.+?)<.*?href="(.+?)">(.+?)<', extraer.text)
-    return links
-]]></expres>
-<page></page>
-<referer>https://dailysport.bar/</referer>
-<cookieJar>__cfduid=d328bf84a9e848be74037db6c007368251608050648</cookieJar>
-</regex>
-
-<regex>
-<name>get-decode</name>
-<expres>$pyFunction:base64.b64decode("$doregex[get-enctext]")</expres>
-<page></page>
-</regex>
-
-<regex>
-<name>get-enctext</name>
-<expres>(?s)initClapprPlayer.*?atob\("([^"]+).*?plugins</expres>
-<page>https://dailysport.bar/[makelist.param4]</page>
-</regex>
- </item>
- 
  
 <item>
-<title>[COLOR darkorange]DailySport opcion 5[/COLOR]</title>
+<title>[COLOR darkorange]DailySport opcion 4[/COLOR]</title>
 <info>Se actualiza diariamente</info>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -263,8 +220,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <listrepeat><![CDATA[
 <title>[COLOR orange][B][makelist.param1][/B][/COLOR][COLOR white][makelist.param2][/COLOR][COLOR lime] [makelist.param3] [/COLOR][COLOR gold][makelist.param5][/COLOR] </title>
 <link>$doregex[get-decode]|User-Agent=iPad</link>
-<thumbnail>https://i.imgur.com/kHOtn4i.jpg</thumbnail>
-<fanart>https://i.imgur.com/kHOtn4i.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 ]]></listrepeat>
 <expres><![CDATA[#$pyFunction
 import re , requests , xbmc , xbmcaddon , xbmcgui
