@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",[COLOR green]canal 1 segunda división y futbol[/COLOR]
-http://142-169.hopto.cc:43911/ls/e1621949450943aba6b7aaa55987bfff248e0f86f74dd951fef4d85578c94ee73922000641fabf9ea05866d81053e97c6614a5985f1485381f47bbdb39a62615/60335b60e89af697242987/af84649ac167fb3432e6b500d6ca433f/6033f4000147a/c3IujApnT0NC4uWszOWrPt06HG9bl9OQ/index.m3u8
-#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",[COLOR green]canal 2 la liga[/COLOR]
-http://trialflying.com:8080/J.o.r.geagayonkywq/9rj54a9nts/13462
+http://142-169.hopto.cc:43911/ls/e1621949450943aba6b7aaa55987bfff248e0f86f74dd951fef4d85578c94ee73922000641fabf9ea05866d81053e97c6614a5985f1485381f47bbdb39a62615/60335b60e89af697242987/af84649ac167fb3432e6b500d6ca433f/6033f4000147a/c3IujApnT0NC4uWszOWrPt06HG9bl9OQ/index.m3u839a62615/60335b60e89af697242987/af84649ac167fb3432e6b500d6ca433f/6033f4000147a/c3IujApnT0NC4uWszOWrPt06HG9bl9OQ/index.m3u8
+#EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",[COLOR green]canal 2 segunda división y futbol[/COLOR]
+https://ki0xu8qbua47qmc.ezcdn462.net:8443/hls/koxwx.m3u8?s=izdAPUw6hPXjh0fgylaA9Q&e=1614039434
 #EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",[COLOR white]Canal 3 sin evento[/COLOR]
 https://live.castamp.com/live/laligaf/playlist.m3u8?h=Uz3vQExqxCp82y7g73DwVw&e=1613392049
 #EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",[COLOR white]canal 4 sin evento[/COLOR]
