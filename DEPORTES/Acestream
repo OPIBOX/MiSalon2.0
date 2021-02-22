@@ -3,7 +3,7 @@
 plugin://program.plexus/?mode=1&url=acestream://db46b11d32909c9c7c8753820aca18430af7d70f&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 2 la liga[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://e47c7beb15f7359cd757bdeacd160d251187f802&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 3 sin la premier[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 3 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://080d48e7e7e744acebefbc7ffd17fd6a2d35a8d3&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 4 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://1ffd7a30577ec436a44edd3ce12326d20bebcbc4&mode=1&name=acestream&mode=1&name=
