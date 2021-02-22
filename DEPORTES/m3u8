@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/one-706897_960_720.jpg" group-title="deportes",[COLOR green]canal 1 la liga FHD[/COLOR]
-http://15.236.144.85:25461/live/r.omset999cf/zcyj3h0qjj/13461.m3u8?token=cVE4RUlKQVJJUEh0eXlE
+http://trialflying.com:8080/live/r.omset999cf/zcyj3h0qjj/13461.m3u8
 #EXTINF:-1 tvg-name="Canal 2" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/two-706896_960_720.jpg"group-title="deportes",[COLOR green]canal 2 la liga 1 FHD[/COLOR]
-http://15.236.144.85:25461/live/r.omset999cf/zcyj3h0qjj/13459.m3u8?token=Y3k2UFlwZHRqNkJveTFM
-#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",[COLOR green]Canal 3 la liga 2 HD[/COLOR]
-http://15.236.144.85:25461/live/r.omset999cf/zcyj3h0qjj/13457.m3u8?token=UU1qM09HMlB6UjlYTEtI
-#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",[COLOR white]canal 4 sin evento[/COLOR]
-http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8?per
+http://trialflying.com:8080/live/r.omset999cf/zcyj3h0qjj/13459.m3u8
+#EXTINF:-1 tvg-name="Canal 3" tvg-logo="https://elblogdelinaem.files.wordpress.com/2016/06/nc3bamero-3.jpg" group-title="deportes",[COLOR green]Canal 3 la liga 2 FHD[/COLOR]
+http://trialflying.com:8080/live/r.omset999cf/zcyj3h0qjj/13457.m3u8
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/four-706894_960_720.jpg" group-title="deportes",[COLOR green]canal 4 M.Liga Campeones[/COLOR]
+http://trialflying.com:8080/live/r.omset999cf/zcyj3h0qjj/13445.m3u8
 #EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/five-706893_960_720.jpg" group-title="deportes",[COLOR white]canal 5 sin evento[/COLOR]
 https://dailysportbucket70.s3.eu-west-3.amazonaws.com/10/10.m3u8
 #EXTINF:-1 tvg-name="Canal 6" tvg-logo="https://cdn.pixabay.com/photo/2015/04/04/19/13/six-706892_960_720.jpg" group-title="deportes",[COLOR white]canal 6 sin evento[/COLOR]
