@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 1 champions[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://7733f92fcb32c6a69533c43ab4f151d3335a56d9&mode=1&name=acestream&mode=1&name=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 2 champions[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 1 la liga[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://13bfbc2a5f15b459c920d6f4cca992f12fce6cf7&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 2 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://c5e65e077fd885e83502d23a2a9a585584b44abb&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 3 sin evento[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://080d48e7e7e744acebefbc7ffd17fd6a2d35a8d3&mode=1&name=acestream&mode=1&name=
