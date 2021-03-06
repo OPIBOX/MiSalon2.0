@@ -43,7 +43,7 @@
   <link>$doregex[geturl]</link>
 ]]></listrepeat>
 <expres>(\d\d:\d\d\s.+?\s.+?)\|\s(.+?).php</expres>
-<page>https://v4.sportzonline.to/prog.txt</page>
+<page>https://sportzonline.to/prog.txt</page>
 </regex>
 
 <regex>
