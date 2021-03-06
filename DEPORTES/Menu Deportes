@@ -43,7 +43,7 @@
   <link>$doregex[geturl]</link>
 ]]></listrepeat>
 <expres>(\d\d:\d\d\s.+?\s.+?)\|\s(.+?).php</expres>
-<page>http://sportzonline.to/prog.txt</page>
+<page>https://v4.sportzonline.to/prog.txt</page>
 </regex>
 
 <regex>
@@ -85,7 +85,7 @@
       ]]></listrepeat>
       <expres>>(\d\d:\d\d)\s(.*?)<.*?|a href="(.*?)".*?#ff0000;">(.*?)<</expres>
       <page>https://daddylive.live/index.php</page>
-      <referer>https://daddylive.live/</referer>
+      <referer>https://daddylive.co/</referer>
     </regex>
     
        <regex>
@@ -97,13 +97,13 @@
       <name>unpack</name>
       <expres>$pyFunction:get_unpacked(page_data,'(?s)(eval\(function\(p,a,c,k,e,d.*?)&lt;/.+')</expres>
       <page>$doregex[url2]</page>
-      <referer>https://daddylive.live/</referer>
+      <referer>https://daddylive.co/</referer>
     </regex>
     <regex>
       <name>url2</name>
       <expres>iframe\s*src="([^"]+)</expres>
       <page>[makelist.param3]</page>
-      <referer>https://daddylive.live/</referer>
+      <referer>https://daddylive.co/</referer>
     </regex>
   </item>
   
