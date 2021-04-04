@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 1  M liga[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://94327db271976209c1bae168ce82866f0a7487e4&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 2 M liga[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://7435d49010bdb4532859c4ac0eee878d4e41af68&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://d848f4b4f4df0acee097ef69a97a6be409bf5014&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 3 M liga 1[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://7ef037aae7a5b3eb6081876ed5ca68df6317ea3e&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 4 M liga campeones[/COLOR]
