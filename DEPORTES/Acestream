@@ -14,7 +14,7 @@ plugin://program.plexus/?mode=1&url=acestream://fa93b7f9320c7958a5f64513d450cbff
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 7 Dazn 1[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://0ca214107dc6105328f41eae9180484e32e5b699&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 8 Dazn 2[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://4f5f012928fc10d904e0e704b2a88bfa90421da7&mode=1&name=acestream&mode=1&name=
+plugin://program.plexus/?mode=1&url=acestream://30e1f644b838f43f2d0df4cdf6c81c2932f99032&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 9 Dazn 3[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://19d3adef57891342952b8a3cfa3984c305cc1525&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 10 Dazn 4[/COLOR]
