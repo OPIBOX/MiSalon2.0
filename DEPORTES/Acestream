@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 1 M liga[/COLOR]
-plugin://program.plexus/?mode=1&url=acestream://3742e4359df724c66c74e41488d449ea044b91e3&mode=1&name=acestream&mode=1&name=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR green]Acestream 1 M liga[/COLOR]
+plugin://program.plexus/?mode=1&url=acestream://5215c8fc87b26f79d04e4b2ee436f96b69d5d250&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 2 M liga[/COLOR]
 plugin://program.plexus/?mode=1&url=acestream://a3897ffcb2084ffaed89617338b57656b3b36f02&mode=1&name=acestream&mode=1&name=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pspstation.org/wp-content/uploads/2017/11/acestream.png" group-title="Acestream",[COLOR white]Acestream 3 M liga 2[/COLOR]
