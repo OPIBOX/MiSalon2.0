@@ -21,10 +21,10 @@ http://trialnocable.cloud:8080/Jo.rg.e.agayonkyyj/a4tutk2inl/13447
 http://trialnocable.cloud:8080/Jo.rg.e.agayonkyyj/a4tutk2inl/13447
 #EXTINF:-1 tvg-name="Canal 11" tvg-logo="https://st2.depositphotos.com/1011969/6671/i/600/depositphotos_66714411-stock-photo-number-11.jpg" group-title="deportes",[COLOR green]canal 11 dazn f1[/COLOR]
 http://trialnocable.cloud:8080/Jo.rg.e.agayonkyyj/a4tutk2inl/34813
-#EXTINF:-1 tvg-name="Canal 12" tvg-logo="https://st2.depositphotos.com/1011969/6671/i/950/depositphotos_66714477-stock-photo-number-12.jpg" group-title="deportes",[COLOR white]canal 12 sin evento[/COLOR]
-http://trialflying.com:8080/live/Jo.r.geagayonkyn1/x0tfefwdri/13474.m3u8
-#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://st2.depositphotos.com/1011969/6671/i/600/depositphotos_66714443-stock-photo-number-13.jpg" group-title="deportes",[COLOR white]canal 13 sin evento[/COLOR]
-http://trialflying.com:8080/live/Jo.r.geagayonkyn1/x0tfefwdri/13470.m3u8
+#EXTINF:-1 tvg-name="Canal 12" tvg-logo="https://st2.depositphotos.com/1011969/6671/i/950/depositphotos_66714477-stock-photo-number-12.jpg" group-title="deportes",[COLOR green]canal 12 Tenis[/COLOR]
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://st2.depositphotos.com/1011969/6671/i/600/depositphotos_66714443-stock-photo-number-13.jpg" group-title="deportes",[COLOR green]canal 13 Tenis[/COLOR]
+https://playoutengine.sinclairstoryline.com:443/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8?mvk
 #EXTINF:-1 tvg-name="Canal 14" tvg-logo="https://st2.depositphotos.com/1011969/6671/i/950/depositphotos_66714497-stock-photo-number-14.jpg" group-title="deportes",[COLOR white]canal 14 sin evento[/COLOR]
 http://trialflying.com:8080/live/Jo.r.geagayonkyn1/x0tfefwdri/13469.m3u8
 #EXTINF:-1 tvg-name="Canal 15" tvg-logo="https://st2.depositphotos.com/1011969/6671/i/950/depositphotos_66714493-stock-photo-number-15.jpg" group-title="deportes",[COLOR white]canal 15 sin evento[/COLOR]
